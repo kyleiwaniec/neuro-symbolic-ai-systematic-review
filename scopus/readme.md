@@ -3,7 +3,7 @@ Scopus search
 
 Retrieved on July 20, 2021 4:47 PM GMT+1
 
-### Resuts: 2180 (2000 most relevant)
+### Results: 2180 (2000 most relevant)
 
  
 
