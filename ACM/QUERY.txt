@@ -1,0 +1,2 @@
+ACM DL: Query Name,Search Run Date,Search Result Count,Query Syntax
+neuro-symbolic,2021-07-20 at 08:18:03 PDT,146,"query": {Title:((("sub-symbolic" OR "machine learning" OR "deep learning") AND ("symbolic" OR "reasoning" OR "logic")) OR ("neuro-symbolic" OR "neural-symbolic" OR "neuro symbolic" OR "neural symbolic"  OR "neurosymbolic"))}	"filter": {Publication Date: (01/01/2010 TO 12/31/2021)}
