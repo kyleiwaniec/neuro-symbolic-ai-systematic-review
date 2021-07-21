@@ -39,6 +39,7 @@ Number","Section","Session","Committee","History","Legislative Body"
 
 
 ### Filtered by top publishers
+#### See notebook for details filterd-search-results.ipynb
 1,469 articles in `scopus-filtered-by-top-publication.csv`
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
