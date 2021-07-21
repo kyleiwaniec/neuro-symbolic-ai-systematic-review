@@ -37,13 +37,9 @@ Name","Court","References","Reporter","Legal Status","Priority
 Numbers","Programming Language","Version","System","Code","Code
 Number","Section","Session","Committee","History","Legislative Body"
 
- 
 
-\#\#\# Filtered by top publishers
-
- 
-
-1,469 articles in scopus-filtered-by-top-publication.csv
+### Filtered by top publishers
+1,469 articles in `scopus-filtered-by-top-publication.csv`
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 {'ACM',
