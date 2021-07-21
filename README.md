@@ -1,6 +1,9 @@
 # neuro-symbolic-ai-systematic-review
 Authors: Kyle Hamilton & Aparna Nayak
 
+## [SWJ Call for papers](http://www.semantic-web-journal.net/blog/call-papers-special-issue-role-ontologies-and-knowledge-explainable-ai)
+Submission deadline: 10th of December 2021.
+
 ## Google docs:
 * [SWJ Call for papers](https://docs.google.com/document/d/1dlsWzPQFVGbzqlbZUwuF_n6SsrZubzATi-9d-P8ozM0/edit#heading=h.jp39sf4pvoh)
 * [Neural-Symbolic Lit reveiw](https://docs.google.com/document/d/1JtQiJ14oS--3bqsiD1SDfQqnVQgr6_mRK2aFNG01bis/edit#heading=h.akl3ltvcromx)
