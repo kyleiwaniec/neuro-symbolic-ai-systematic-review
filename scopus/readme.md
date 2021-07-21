@@ -50,11 +50,13 @@ Number","Section","Session","Committee","History","Legislative Body"
  'American Society for Microbiology',
  'Association for Computing Machinery',
  'Cairo University',
- 'Chemistry Central',
  'Chongqing University of Posts and Telecommunications',
  'Elsevier',
+ 'Emerald',
  'IEEE',
+ 'IOS Press',
  'Institute for Operations Research and the Management Sciences',
+ 'King Saud University',
  'MIT Press',
  'Mary Ann Liebert',
  'Morgan & Claypool Publishers',
@@ -69,6 +71,5 @@ Number","Section","Session","Committee","History","Legislative Body"
  'Taylor & Francis',
  'University of California Press',
  'University of Minnesota',
- 'Wiley-Blackwell',
- 'World Scientific'}
+ 'Wiley-Blackwell'}
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
