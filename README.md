@@ -12,8 +12,8 @@ Submission deadline: 10th of December 2021.
 ## Overleaf:
 * [IOSPress template](https://www.overleaf.com/project/60ef2984f6b92c6cc5546e28)
 
-## Possible publishers:
-(per suggestion from Luca L.)
+## Other possible publishers:
+(as recommendaed by Luca L.)
 * https://www.frontiersin.org/journals/artificial-intelligence
 * https://www.journals.elsevier.com/artificial-intelligence
 * https://www.mdpi.com
