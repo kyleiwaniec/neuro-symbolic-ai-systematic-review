@@ -1,0 +1,12 @@
+axes.titlesize : 14
+axes.labelsize : 12
+axes.edgecolor:   cccccc
+axes.linewidth:     0.6
+
+lines.linewidth : 1
+lines.markersize : 10
+
+xtick.labelsize : 10
+ytick.labelsize : 10
+xtick.color:      333333
+ytick.color:      333333
