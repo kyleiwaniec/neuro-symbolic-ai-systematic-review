@@ -2,12 +2,17 @@
 # use SPECTER model https://arxiv.org/abs/2004.07180 (this model was trained on scientific papers)
 
 from sentence_transformers import SentenceTransformer
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
 import umap
 import hdbscan
 import numpy as np
 import pandas as pd
+from collections import defaultdict
 import time
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+
 
 def make_clusters(data, neighbors=15, components=5, cluster_size=5, save_embeddings=False):
     """
@@ -89,3 +94,39 @@ def get_topics(cluster, abstracts, n_words=20):
     topic_sizes = extract_topic_sizes(docs_df);
     
     return top_n_words, topic_sizes
+
+def drawCloud(text,max_words=350,width=1000,height=600,figsize=(15,15),raw=True,title=""):
+    wc = WordCloud(background_color="white", 
+                   max_words=max_words, 
+                   width=width, 
+                   height=height, 
+                   random_state=1)
+    if raw:
+        wc.generate(text)
+    else:    
+        wc.generate_from_frequencies(text)
+    
+    plt.figure(figsize=figsize)
+    plt.title(title)
+    plt.axis("off")
+    cloud=plt.imshow(wc)
+    return cloud
+
+
+def getTFIDF(text,top_n=15,maxdf=0.9):
+    vectorizer = TfidfVectorizer(stop_words='english',min_df=0.2,max_df=maxdf,ngram_range=(1,3),strip_accents='unicode')
+    X = vectorizer.fit_transform(text)
+#     print(X.shape)
+    
+    feature_names=vectorizer.get_feature_names()
+    words_scores=[]
+    for col in X.nonzero()[1]:
+        words_scores.append((feature_names[col],X[0, col]))
+    #     print(feature_names[col], ' - ', X[0, col])
+
+    words_scores=list(set(words_scores))
+    word_scores_sorted=defaultdict(str)
+    for item in sorted(words_scores, key = lambda x: -x[1])[:top_n]:
+        word_scores_sorted[item[0]]=item[1]
+#         print(item)
+    return word_scores_sorted
