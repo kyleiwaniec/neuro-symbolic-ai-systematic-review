@@ -27,8 +27,8 @@ This Repo Organization
 
 -   **figures** - for the review itself. These get uploaded to Overleaf
 
--   **Surveys** - existing NeSy surveys and discussion (not a comprehensive list
-    - yet)
+-   **Surveys** - existing NeSy surveys and discussion (not a comprehensive
+    list, yet)
 
 Google docs:
 ------------
