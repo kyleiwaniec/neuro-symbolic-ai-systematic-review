@@ -6,7 +6,9 @@ axes.linewidth:     0.6
 lines.linewidth : 1
 lines.markersize : 10
 
-xtick.labelsize : 10
-ytick.labelsize : 10
+xtick.labelsize : large
+ytick.labelsize : large
 xtick.color:      333333
 ytick.color:      333333
+
+axes.prop_cycle: cycler('color', ['ff0066', '3B1C8C', '21908D', '5AC865', 'F9E721', '450256', '3B1C8C', '21908D'])

@@ -399,7 +399,9 @@ font.sans-serif: Roboto, DejaVu Sans, Bitstream Vera Sans, Computer Modern Sans 
 
 #axes.unicode_minus: True  # use Unicode for the minus symbol rather than hyphen.  See
                            # https://en.wikipedia.org/wiki/Plus_and_minus_signs#Character_codes
+
 axes.prop_cycle: cycler('color', ['450256', '3B1C8C', '21908D', '5AC865', 'F9E721', '450256', '3B1C8C', '21908D'])
+                  
                   # viridis: #450256,#3B1C8C,#21908D,#5AC865,#F9E721,#450256,#3B1C8C,#21908D
                   # color cycle for plot lines as list of string colorspecs:
                   # single letter, long name, or web-style hex
@@ -408,6 +410,7 @@ axes.prop_cycle: cycler('color', ['450256', '3B1C8C', '21908D', '5AC865', 'F9E72
                   # e.g. '1f77b4', instead of 1f77b4.
                   # See also https://matplotlib.org/tutorials/intermediate/color_cycle.html
                   # for more details on prop_cycle usage.
+
 #axes.autolimit_mode: data  # How to scale axes limits to the data.  By using:
                             #     - "data" to use data limits, plus some margin
                             #     - "round_numbers" move to the nearest "round" number
