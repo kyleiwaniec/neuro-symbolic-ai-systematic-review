@@ -1,0 +1,3290 @@
+[
+    {
+        "citation-number": "1",
+        "author":
+        [
+            {
+                "family": "Arabshahi",
+                "given": "F."
+            },
+            {
+                "family": "Lu",
+                "given": "Z."
+            },
+            {
+                "family": "Singh",
+                "given": "S."
+            },
+            {
+                "family": "Anandkumar",
+                "given": "A."
+            }
+        ],
+        "title": "Memory augmented recursive neural networks",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1911.01545, 2019"
+        }
+    },
+    {
+        "citation-number": "2",
+        "author":
+        [
+            {
+                "family": "Arabshahi",
+                "given": "F."
+            },
+            {
+                "family": "Singh",
+                "given": "S."
+            },
+            {
+                "family": "Anandkumar",
+                "given": "A."
+            }
+        ],
+        "title": "Combining symbolic expressions, and black-box function evaluations in neural programs",
+        "container-title": "ICLR",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2018
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "3",
+        "author":
+        [
+            {
+                "family": "Bach",
+                "given": "S.H."
+            },
+            {
+                "family": "Broecheler",
+                "given": "M."
+            },
+            {
+                "family": "Huang",
+                "given": "B."
+            },
+            {
+                "family": "Getoor",
+                "given": "L."
+            }
+        ],
+        "title": "Hinge-loss markov random fields, and probabilistic soft logic",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "pt",
+        "issued":
+        {
+            "raw": "abs/1505.04406, 2015"
+        }
+    },
+    {
+        "citation-number": "4",
+        "author":
+        [
+            {
+                "family": "Bader",
+                "given": "S."
+            },
+            {
+                "family": "Hitzler",
+                "given": "P."
+            }
+        ],
+        "title": "Dimensions of neural-symbolic integration: a structured survey",
+        "editor":
+        [
+            {
+                "family": "Artemov",
+                "given": "S."
+            },
+            {
+                "family": "Barringer",
+                "given": "H."
+            },
+            {
+                "family": "Garcez",
+                "given": "A.",
+                "particle": "d’Avila"
+            },
+            {
+                "family": "Lamb",
+                "given": "L."
+            },
+            {
+                "family": "Woods",
+                "given": "J."
+            }
+        ],
+        "container-title": "We Will Show Them! Essays in Hon- our of Dov Gabbay",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2005
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "5",
+        "author":
+        [
+            {
+                "literal": "S. Bader, P. Hitzler, S. H ̈olldobler, and A. Witzel."
+            }
+        ],
+        "title": "The core method: Connectionist model generation for first-order logic programs",
+        "editor":
+        [
+            {
+                "family": "Hammer",
+                "given": "B."
+            },
+            {
+                "family": "Hitzler",
+                "given": "P."
+            }
+        ],
+        "container-title": "Perspectives of Neural-Symbolic 28 Integration",
+        "volume": "77",
+        "collection-title": "of Studies in Computational Intelligence",
+        "publisher": "Springer",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2007
+                ]
+            ]
+        },
+        "page": "205–232"
+    },
+    {
+        "citation-number": "6",
+        "author":
+        [
+            {
+                "family": "Bengio",
+                "given": "Y."
+            },
+            {
+                "family": "Deleu",
+                "given": "T."
+            },
+            {
+                "family": "Rahaman",
+                "given": "N."
+            },
+            {
+                "family": "Ke",
+                "given": "N.R."
+            },
+            {
+                "family": "Lachapelle",
+                "given": "S."
+            },
+            {
+                "family": "Bilaniuk",
+                "given": "O."
+            },
+            {
+                "family": "Goyal",
+                "given": "A."
+            },
+            {
+                "family": "Pal",
+                "given": "C.J."
+            }
+        ],
+        "title": "A meta-transfer objective for learning to disentangle causal mechanisms",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "pt",
+        "issued":
+        {
+            "raw": "abs/1901.10912, 2019"
+        }
+    },
+    {
+        "citation-number": "7",
+        "author":
+        [
+            {
+                "family": "Bordes",
+                "given": "A."
+            },
+            {
+                "family": "J.Weston",
+                "given": "R.Collobert"
+            },
+            {
+                "family": "Bengio",
+                "given": "Y."
+            }
+        ],
+        "title": "Learning structured embeddings of knowledge bases",
+        "container-title": "AAAI’11",
+        "language": "nl",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2011
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "8",
+        "author":
+        [
+            {
+                "family": "Cameron",
+                "given": "C."
+            },
+            {
+                "family": "Chen",
+                "given": "R."
+            },
+            {
+                "family": "Hartford",
+                "given": "J."
+            },
+            {
+                "family": "Leyton-Brown",
+                "given": "K."
+            }
+        ],
+        "title": "Predicting propositional satisfiability via end-to-end learning",
+        "container-title": "AAAI",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "9",
+        "author":
+        [
+            {
+                "family": "Caruana",
+                "given": "R."
+            },
+            {
+                "family": "Lou",
+                "given": "Y."
+            },
+            {
+                "family": "Gehrke",
+                "given": "J."
+            },
+            {
+                "family": "Koch",
+                "given": "P."
+            },
+            {
+                "family": "Sturm",
+                "given": "M."
+            },
+            {
+                "family": "Elhadad",
+                "given": "N."
+            }
+        ],
+        "title": "Intelligible models for healthcare: Predicting pneumonia risk, and hospital 30-day readmission",
+        "container-title": "Proceedings of the 21st ACM SIGKDD",
+        "publisher": "ACM",
+        "language": "en",
+        "type": "paper-conference",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2015
+                ]
+            ]
+        },
+        "page": "1721–1730"
+    },
+    {
+        "citation-number": "10",
+        "author":
+        [
+            {
+                "family": "Chen",
+                "given": "J."
+            },
+            {
+                "family": "Batmanghelich",
+                "given": "K."
+            }
+        ],
+        "title": "Weakly supervised disentanglement by pairwise similarities",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1906.01044, 2019"
+        }
+    },
+    {
+        "citation-number": "11",
+        "author":
+        [
+            {
+                "family": "Cohen",
+                "given": "W.W."
+            },
+            {
+                "family": "Yang",
+                "given": "F."
+            },
+            {
+                "family": "Mazaitis",
+                "given": "K."
+            }
+        ],
+        "title": "Tensorlog: Deep learning meets probabilistic dbs",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "nl",
+        "issued":
+        {
+            "raw": "abs/1707.05390, 2017"
+        }
+    },
+    {
+        "citation-number": "12",
+        "author":
+        [
+            {
+                "literal": "A.S. d’Avila Garcez, T. Besold, L. de Raedt, P. F ̈oldi ́ak, P. Hitzler, T. Icard, K. K ̈uhnberger, L.C. Lamb, R. Miikkulainen, and D. Silver."
+            }
+        ],
+        "title": "Neural-symbolic learning, and reasoning: Contributions, and challenges",
+        "container-title": "AAAI Spring Symposia",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2015
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "13",
+        "author":
+        [
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            },
+            {
+                "family": "Gori",
+                "given": "M."
+            },
+            {
+                "family": "Lamb",
+                "given": "L."
+            },
+            {
+                "family": "Serafini",
+                "given": "L."
+            },
+            {
+                "family": "Spranger",
+                "given": "M."
+            },
+            {
+                "family": "Tran",
+                "given": "S."
+            }
+        ],
+        "title": "Neural-symbolic computing: An effective methodology for principled integration of machine learning, and reasoning",
+        "volume": "6",
+        "type": "article-journal",
+        "container-title": "FLAP",
+        "issue": "4",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2019
+                ]
+            ]
+        },
+        "page": "611–632"
+    },
+    {
+        "citation-number": "14",
+        "author":
+        [
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            },
+            {
+                "family": "Zaverucha",
+                "given": "G."
+            }
+        ],
+        "title": "The connectionist inductive learning, and logic programming system",
+        "volume": "11",
+        "type": "article-journal",
+        "container-title": "Appl. Intelligence",
+        "issue": "1",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    1999
+                ]
+            ]
+        },
+        "page": "59–77"
+    },
+    {
+        "citation-number": "15",
+        "author":
+        [
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            },
+            {
+                "family": "Broda",
+                "given": "K."
+            },
+            {
+                "family": "Gabbay",
+                "given": "D.M."
+            }
+        ],
+        "title": "Symbolic knowledge extraction from trained neural networks: A sound approach",
+        "volume": "125",
+        "type": "article-journal",
+        "container-title": "Artif. Intell",
+        "issue": "1-2",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2001
+                ]
+            ]
+        },
+        "page": "155–207"
+    },
+    {
+        "citation-number": "16",
+        "author":
+        [
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            },
+            {
+                "family": "Broda",
+                "given": "K."
+            },
+            {
+                "family": "Gabbay",
+                "given": "D.M."
+            }
+        ],
+        "title": "Neural-Symbolic Learning Systems: Foundations, and Applications",
+        "publisher": "Springer",
+        "language": "da",
+        "type": "book",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2002
+                ]
+            ]
+        },
+        "page": "29"
+    },
+    {
+        "citation-number": "17",
+        "author":
+        [
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            },
+            {
+                "family": "Lamb",
+                "given": "L.C."
+            }
+        ],
+        "title": "Reasoning about time, and knowledge in neural symbolic learning systems",
+        "container-title": "NIPS",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2003
+                ]
+            ]
+        },
+        "page": "921–928,"
+    },
+    {
+        "citation-number": "18",
+        "author":
+        [
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            },
+            {
+                "family": "Lamb",
+                "given": "L.C."
+            },
+            {
+                "family": "Gabbay",
+                "given": "D.M."
+            }
+        ],
+        "title": "Connectionist computations of intuitionistic reasoning",
+        "volume": "358",
+        "type": "article-journal",
+        "container-title": "Theor. Comput. Sci",
+        "issue": "1",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2006
+                ]
+            ]
+        },
+        "page": "55,"
+    },
+    {
+        "citation-number": "19",
+        "author":
+        [
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            },
+            {
+                "family": "Lamb",
+                "given": "L.C."
+            },
+            {
+                "family": "Gabbay",
+                "given": "D.M."
+            }
+        ],
+        "title": "Connectionist modal logic: Representing modalities in neural networks",
+        "volume": "371",
+        "type": "article-journal",
+        "container-title": "Theoretical Computer Science",
+        "issue": "1-2",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2007
+                ]
+            ]
+        },
+        "page": "34–53"
+    },
+    {
+        "citation-number": "20",
+        "author":
+        [
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            },
+            {
+                "family": "Lamb",
+                "given": "L.C."
+            },
+            {
+                "family": "Gabbay",
+                "given": "D.M."
+            }
+        ],
+        "title": "Neural-Symbolic Cognitive Reasoning",
+        "publisher": "Springer",
+        "language": "da",
+        "type": "book",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2009
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "21",
+        "author":
+        [
+            {
+                "family": "Davis",
+                "given": "E."
+            }
+        ],
+        "title": "The use of deep learning for symbolic integration: A review of (Lample, and Charton, 2019",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1912.05752, 2019"
+        }
+    },
+    {
+        "citation-number": "22",
+        "author":
+        [
+            {
+                "family": "Domingos",
+                "given": "P."
+            }
+        ],
+        "title": "Every model learned by gradient descent is approximately a kernel machine",
+        "language": "it",
+        "type": null,
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "23",
+        "author":
+        [
+            {
+                "family": "Donadello",
+                "given": "I."
+            },
+            {
+                "family": "Serafini",
+                "given": "L."
+            },
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            }
+        ],
+        "title": "Logic tensor networks for semantic image interpretation",
+        "container-title": "IJCAI-17",
+        "language": "fr",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2017
+                ]
+            ]
+        },
+        "page": "1596–1602,"
+    },
+    {
+        "citation-number": "24",
+        "author":
+        [
+            {
+                "family": "Dong",
+                "given": "H."
+            },
+            {
+                "family": "Mao",
+                "given": "J."
+            },
+            {
+                "family": "Lin",
+                "given": "T."
+            },
+            {
+                "family": "Wang",
+                "given": "C."
+            },
+            {
+                "family": "Li",
+                "given": "L."
+            },
+            {
+                "family": "Zhou",
+                "given": "D."
+            }
+        ],
+        "title": "Neural logic machines",
+        "language": "pt",
+        "type": null,
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2019
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "25",
+        "author":
+        [
+            {
+                "family": "Eubanks",
+                "given": "V."
+            }
+        ],
+        "title": "Automating Inequality: How High-Tech Tools Profile, Po- lice, and Punish the Poor. St",
+        "publisher": "Martin’s Press",
+        "language": "en",
+        "type": "book",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2018
+                ]
+            ]
+        },
+        "publisher-place": "Inc., USA"
+    },
+    {
+        "citation-number": "26",
+        "author":
+        [
+            {
+                "family": "Evans",
+                "given": "R."
+            },
+            {
+                "family": "Grefenstette",
+                "given": "E."
+            }
+        ],
+        "title": "Learning explanatory rules from noisy data",
+        "volume": "61",
+        "type": "article-journal",
+        "container-title": "JAIR",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2018
+                ]
+            ]
+        },
+        "page": "1–64"
+    },
+    {
+        "citation-number": "27",
+        "author":
+        [
+            {
+                "literal": "M. Fran ̧ca, G. Zaverucha, and A.S. d’Avila Garcez."
+            }
+        ],
+        "title": "Fast relational learning using bottom clause propositionalization with artificial neural networks",
+        "volume": "94",
+        "type": "article-journal",
+        "container-title": "Mach. Learning",
+        "issue": "1",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2014
+                ]
+            ]
+        },
+        "page": "81–104"
+    },
+    {
+        "citation-number": "28",
+        "author":
+        [
+            {
+                "family": "Garnelo",
+                "given": "M."
+            },
+            {
+                "family": "Shanahan",
+                "given": "M."
+            }
+        ],
+        "title": "Reconciling deep learning with symbolic artificial intelligence: representing objects, and relations",
+        "volume": "29",
+        "type": "article-journal",
+        "container-title": "Current Opinion in Behavioral Sciences",
+        "issue": "17",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2019
+                ]
+            ]
+        },
+        "page": "– 23,"
+    },
+    {
+        "citation-number": "29",
+        "author":
+        [
+            {
+                "family": "Garnelo",
+                "given": "M."
+            },
+            {
+                "family": "Arulkumaran",
+                "given": "K."
+            },
+            {
+                "family": "Shanahan",
+                "given": "M."
+            }
+        ],
+        "title": "Towards deep symbolic reinforcement learning",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1609.05518, 2016"
+        },
+        "page": "30"
+    },
+    {
+        "citation-number": "30",
+        "author":
+        [
+            {
+                "family": "Gidon",
+                "given": "A."
+            },
+            {
+                "family": "Zolnik",
+                "given": "T."
+            },
+            {
+                "family": "Fidzinski",
+                "given": "P."
+            },
+            {
+                "family": "Bolduan",
+                "given": "F."
+            },
+            {
+                "family": "Papoutsi",
+                "given": "A."
+            },
+            {
+                "family": "Poirazi",
+                "given": "P."
+            },
+            {
+                "family": "Holtkamp",
+                "given": "M."
+            },
+            {
+                "family": "Vida",
+                "given": "I."
+            },
+            {
+                "family": "Larkum",
+                "given": "M.E."
+            }
+        ],
+        "title": "Dendritic action potentials, and computation in human layer 2/3 cortical neurons",
+        "volume": "367",
+        "type": "article-journal",
+        "container-title": "Science",
+        "issue": "6473",
+        "language": "fr",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020
+                ]
+            ]
+        },
+        "page": "83–87"
+    },
+    {
+        "citation-number": "31",
+        "author":
+        [
+            {
+                "family": "Goodfellow",
+                "given": "I."
+            },
+            {
+                "family": "Pouget-Abadie",
+                "given": "J."
+            },
+            {
+                "family": "Mirza",
+                "given": "M."
+            },
+            {
+                "family": "Xu",
+                "given": "B."
+            },
+            {
+                "family": "Warde-Farley",
+                "given": "D."
+            },
+            {
+                "family": "Ozair",
+                "given": "S."
+            },
+            {
+                "family": "Courville",
+                "given": "A."
+            },
+            {
+                "family": "Bengio",
+                "given": "Y."
+            }
+        ],
+        "title": "Generative adversarial nets",
+        "editor":
+        [
+            {
+                "family": "Ghahramani",
+                "given": "Z."
+            },
+            {
+                "family": "Welling",
+                "given": "M."
+            },
+            {
+                "family": "Cortes",
+                "given": "C."
+            },
+            {
+                "family": "Lawrence",
+                "given": "N."
+            },
+            {
+                "family": "Weinberger",
+                "given": "K.Q."
+            }
+        ],
+        "container-title": "Advances in Neural Information Processing Systems",
+        "volume": "27",
+        "publisher": "Curran Associates, Inc",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2014
+                ]
+            ]
+        },
+        "page": "2672–2680"
+    },
+    {
+        "citation-number": "32",
+        "author":
+        [
+            {
+                "family": "Gori",
+                "given": "M."
+            }
+        ],
+        "title": "Machine Learning: A Constraint-Based Approach",
+        "publisher": "Morgan Kaufmann",
+        "edition": "1st",
+        "language": "en",
+        "type": "book",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2018
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "33",
+        "author":
+        [
+            {
+                "family": "Graves",
+                "given": "A."
+            },
+            {
+                "family": "Wayne",
+                "given": "G."
+            },
+            {
+                "family": "Reynolds",
+                "given": "M."
+            },
+            {
+                "family": "Harley",
+                "given": "T."
+            },
+            {
+                "family": "Danihelka",
+                "given": "I."
+            },
+            {
+                "family": "Grabska-Barwinska",
+                "given": "A."
+            },
+            {
+                "family": "Colmenarejo",
+                "given": "S.G."
+            },
+            {
+                "family": "Grefenstette",
+                "given": "E."
+            },
+            {
+                "family": "Ramalho",
+                "given": "T."
+            },
+            {
+                "family": "Agapiou",
+                "given": "J."
+            },
+            {
+                "family": "Badia",
+                "given": "A.Puigdom`enech"
+            },
+            {
+                "family": "Hermann",
+                "given": "K.M."
+            },
+            {
+                "family": "Zwols",
+                "given": "Y."
+            },
+            {
+                "family": "Ostrovski",
+                "given": "G."
+            },
+            {
+                "family": "Cain",
+                "given": "A."
+            },
+            {
+                "family": "King",
+                "given": "H."
+            },
+            {
+                "family": "Summerfield",
+                "given": "C."
+            },
+            {
+                "family": "Blunsom",
+                "given": "P."
+            },
+            {
+                "family": "Kavukcuoglu",
+                "given": "K."
+            },
+            {
+                "family": "Hassabis",
+                "given": "D."
+            }
+        ],
+        "title": "Hybrid computing using a neural network with dynamic external memory",
+        "volume": "538",
+        "type": "article-journal",
+        "container-title": "Nature",
+        "issue": "7626",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2016
+                ]
+            ]
+        },
+        "page": "471–476"
+    },
+    {
+        "citation-number": "34",
+        "author":
+        [
+            {
+                "family": "Halpern",
+                "given": "J.Y."
+            }
+        ],
+        "title": "Reasoning about uncertainty",
+        "publisher": "MIT Press",
+        "language": "en",
+        "type": "book",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2005
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "35",
+        "editor":
+        [
+            {
+                "family": "Hammer",
+                "given": "B."
+            },
+            {
+                "family": "Hitzler",
+                "given": "P."
+            }
+        ],
+        "publisher": "Perspectives of Neural-Symbolic Integration. Springer",
+        "language": "en",
+        "type": "book",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2007
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "36",
+        "author":
+        [
+            {
+                "family": "Hinton",
+                "given": "G.E."
+            }
+        ],
+        "title": "Connectionist symbol processing - preface",
+        "volume": "46",
+        "type": "article-journal",
+        "container-title": "Artif. Intell",
+        "issue": "1-2",
+        "language": "it",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    1990
+                ]
+            ]
+        },
+        "page": "1–4"
+    },
+    {
+        "citation-number": "37",
+        "author":
+        [
+            {
+                "family": "Hinton",
+                "given": "G.E."
+            },
+            {
+                "family": "Osindero",
+                "given": "S."
+            },
+            {
+                "family": "Teh",
+                "given": "Y."
+            }
+        ],
+        "title": "A fast learning algorithm for deep belief nets",
+        "volume": "18",
+        "type": "article-journal",
+        "container-title": "Neural Comput",
+        "issue": "7",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2006,
+                    7
+                ]
+            ]
+        },
+        "page": "1527–1554"
+    },
+    {
+        "citation-number": "38",
+        "author":
+        [
+            {
+                "literal": "S. H ̈olldobler, and F.J. Kurfess. CHCL -"
+            }
+        ],
+        "title": "A connectionist inference system",
+        "editor":
+        [
+            {
+                "literal": "In Bertram Fronh ̈ofer, and GrahamWrightson, editors"
+            }
+        ],
+        "container-title": "Paralleliza- tion in Inference Systems, International Workshop, Dagstuhl Castle",
+        "volume": "Proceedings, volume 590",
+        "collection-title": "of Lecture Notes in Computer Science",
+        "publisher": "Springer",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    -18,
+                    12,
+                    17
+                ]
+            ]
+        },
+        "page": "318–342",
+        "publisher-place": "Germany"
+    },
+    {
+        "citation-number": "39",
+        "author":
+        [
+            {
+                "family": "Huang",
+                "given": "Q."
+            },
+            {
+                "family": "Smolensky",
+                "given": "P."
+            },
+            {
+                "family": "He",
+                "given": "X."
+            },
+            {
+                "family": "Deng",
+                "given": "L."
+            },
+            {
+                "given": "DWu"
+            }
+        ],
+        "title": "A neural-symbolic approach to natural language tasks",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "pt",
+        "issued":
+        {
+            "raw": "abs/1710.11475, 2017"
+        }
+    },
+    {
+        "citation-number": "40",
+        "author":
+        [
+            {
+                "family": "Kahneman",
+                "given": "D."
+            }
+        ],
+        "title": "Thinking, Fast, and Slow",
+        "publisher": "Farrar, Straus, and Giroux",
+        "language": "en",
+        "type": "book",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2011
+                ]
+            ]
+        },
+        "page": "31",
+        "publisher-place": "New York"
+    },
+    {
+        "citation-number": "41",
+        "author":
+        [
+            {
+                "family": "Kahneman",
+                "given": "D."
+            },
+            {
+                "family": "Hinton",
+                "given": "G."
+            },
+            {
+                "family": "Bengio",
+                "given": "Y."
+            },
+            {
+                "family": "LeCun",
+                "given": "Y."
+            },
+            {
+                "family": "Rossi",
+                "given": "F."
+            }
+        ],
+        "title": "AAAI-20 fireside chat with Daniel Kahneman",
+        "note": "Accessed: 2020-11-20.",
+        "language": "en",
+        "type": null,
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020
+                ]
+            ]
+        },
+        "URL": "https://vimeo.com/390814190?ref=tw-share,"
+    },
+    {
+        "citation-number": "42",
+        "author":
+        [
+            {
+                "family": "Summer",
+                "given": "H.Kautz The Third A.I."
+            },
+            {
+                "family": "S",
+                "given": "A.A.A.I.Robert"
+            }
+        ],
+        "title": "Engelmore Memorial Lecture",
+        "container-title": "Thirty-fourth AAAI Conference on Artificial Intelligence",
+        "note": "Accessed: 2020-11-15.",
+        "language": "en",
+        "type": "paper-conference",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020,
+                    2,
+                    10
+                ]
+            ]
+        },
+        "publisher-place": "New York, NY",
+        "URL": "https://www.cs.rochester.edu/u/kautz/talks/Kautz%20Engelmore%20Lecture.pdf."
+    },
+    {
+        "citation-number": "43",
+        "author":
+        [
+            {
+                "family": "Khardon",
+                "given": "R."
+            },
+            {
+                "family": "Roth",
+                "given": "D."
+            }
+        ],
+        "title": "Learning to reason",
+        "volume": "44",
+        "type": "article-journal",
+        "container-title": "J. ACM",
+        "issue": "5",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    1997
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "44",
+        "author":
+        [
+            {
+                "family": "Kosiorek",
+                "given": "A.R."
+            },
+            {
+                "family": "Sabour",
+                "given": "S."
+            },
+            {
+                "family": "Teh",
+                "given": "Y.W."
+            },
+            {
+                "family": "Hinton",
+                "given": "G.E."
+            }
+        ],
+        "title": "Stacked capsule autoencoders",
+        "container-title": "NeurIPS 2019",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2019
+                ]
+            ]
+        },
+        "page": "15486–15496,"
+    },
+    {
+        "citation-number": "45",
+        "author":
+        [
+            {
+                "family": "Krizhevsky",
+                "given": "A."
+            },
+            {
+                "family": "Sutskever",
+                "given": "I."
+            },
+            {
+                "family": "Hinton",
+                "given": "G.E."
+            }
+        ],
+        "title": "Imagenet classification with deep convolutional neural networks",
+        "volume": "60",
+        "type": "article-journal",
+        "container-title": "Commun. ACM",
+        "issue": "6",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2017,
+                    5
+                ]
+            ]
+        },
+        "page": "84–90"
+    },
+    {
+        "citation-number": "46",
+        "author":
+        [
+            {
+                "family": "Lake",
+                "given": "B.M."
+            },
+            {
+                "family": "Ullman",
+                "given": "T.D."
+            },
+            {
+                "family": "Tenenbaum",
+                "given": "J.B."
+            },
+            {
+                "family": "Gershman",
+                "given": "S.J."
+            }
+        ],
+        "title": "Building machines that learn, and think like people",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1604.00289, 2016"
+        }
+    },
+    {
+        "citation-number": "47",
+        "author":
+        [
+            {
+                "literal": "L.C. Lamb, A.S. d’Avila Garcez, M. Gori, M. Prates, P. Avelar, and M.Y. Vardi."
+            }
+        ],
+        "title": "Graph neural networks meet neural-symbolic computing: A survey, and perspective",
+        "container-title": "IJCAI 2020",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020
+                ]
+            ]
+        },
+        "page": "4877–4884,"
+    },
+    {
+        "citation-number": "48",
+        "author":
+        [
+            {
+                "family": "Lample",
+                "given": "G."
+            },
+            {
+                "family": "Charton",
+                "given": "F."
+            }
+        ],
+        "title": "Deep learning for symbolic mathematics",
+        "container-title": "ICLR",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "49",
+        "author":
+        [
+            {
+                "family": "LeCun",
+                "given": "Y."
+            },
+            {
+                "family": "Bengio",
+                "given": "Y."
+            },
+            {
+                "family": "Hinton",
+                "given": "G."
+            }
+        ],
+        "title": "Deep learning",
+        "volume": "521",
+        "type": "article-journal",
+        "container-title": "Nature",
+        "issue": "7553",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2015
+                ]
+            ]
+        },
+        "page": "436–444"
+    },
+    {
+        "citation-number": "50",
+        "author":
+        [
+            {
+                "family": "Manhaeve",
+                "given": "R."
+            },
+            {
+                "family": "Dumancic",
+                "given": "S."
+            },
+            {
+                "family": "Kimmig",
+                "given": "A."
+            },
+            {
+                "family": "Demeester",
+                "given": "T."
+            },
+            {
+                "family": "Raedt",
+                "given": "L.De"
+            }
+        ],
+        "title": "Deepproblog: Neural probabilistic logic programming",
+        "container-title": "NIPS",
+        "language": "pt",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2018
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "51",
+        "author":
+        [
+            {
+                "family": "Mao",
+                "given": "J."
+            },
+            {
+                "family": "Gan.",
+                "given": "C."
+            },
+            {
+                "family": "Kohli",
+                "given": "P."
+            },
+            {
+                "family": "Tenenbaum",
+                "given": "J."
+            },
+            {
+                "family": "Wu",
+                "given": "J."
+            }
+        ],
+        "title": "The Neuro- Symbolic Concept Learner: Interpreting scenes, words, and sentences from natural supervision",
+        "type": "article-journal",
+        "container-title": "ICLR",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2019
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "52",
+        "author":
+        [
+            {
+                "family": "Marcus",
+                "given": "G."
+            }
+        ],
+        "title": "The next decade in AI: Four steps towards robust artificial intelligence",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1801.00631, 2020"
+        },
+        "page": "32"
+    },
+    {
+        "citation-number": "53",
+        "author":
+        [
+            {
+                "family": "Marra",
+                "given": "G."
+            },
+            {
+                "family": "Giannini",
+                "given": "F."
+            },
+            {
+                "family": "Diligenti",
+                "given": "M."
+            },
+            {
+                "family": "Gori",
+                "given": "M."
+            }
+        ],
+        "title": "Lyrics: A general interface layer to integrate logic inference, and deep learning",
+        "container-title": "Joint European Conference on Machine Learning, and Knowledge Discovery in Databases",
+        "publisher": "Springer",
+        "language": "en",
+        "type": "paper-conference",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2019
+                ]
+            ]
+        },
+        "page": "283–298"
+    },
+    {
+        "citation-number": "54",
+        "author":
+        [
+            {
+                "literal": "P. Minervini, M. Bosnjak, T. Rockt ̈aschel, S. Riedel, and E. Grefenstette."
+            }
+        ],
+        "title": "Differentiable reasoning on large knowledge bases, and natural language",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1912.10824, 2019"
+        }
+    },
+    {
+        "citation-number": "55",
+        "author":
+        [
+            {
+                "family": "Muggleton",
+                "given": "S."
+            }
+        ],
+        "title": "Inductive logic programming",
+        "volume": "8",
+        "type": "article-journal",
+        "container-title": "New Generation Comput- ing",
+        "issue": "4",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    1991
+                ]
+            ]
+        },
+        "page": "295–318"
+    },
+    {
+        "citation-number": "56",
+        "author":
+        [
+            {
+                "family": "Muggleton",
+                "given": "S."
+            },
+            {
+                "family": "Lin",
+                "given": "D."
+            }
+        ],
+        "title": "Meta-interpretive learning of higher-order dyadic datalog: Predicate invention revisited",
+        "container-title": "IJCAI",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2013
+                ]
+            ]
+        },
+        "page": "1551– 1557,"
+    },
+    {
+        "citation-number": "57",
+        "author":
+        [
+            {
+                "family": "Page",
+                "given": "M."
+            }
+        ],
+        "title": "Connectionist modelling in psychology: A localist manifesto",
+        "volume": "23",
+        "type": "article-journal",
+        "container-title": "BBS",
+        "issue": "4",
+        "language": "it",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2000
+                ]
+            ]
+        },
+        "page": "443–512"
+    },
+    {
+        "citation-number": "58",
+        "author":
+        [
+            {
+                "family": "Pearl",
+                "given": "J."
+            }
+        ],
+        "title": "The seven tools of causal inference, with reflections on machine learning",
+        "volume": "62",
+        "type": "article-journal",
+        "container-title": "Commun. ACM",
+        "issue": "3",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2019,
+                    2
+                ]
+            ]
+        },
+        "page": "54–60"
+    },
+    {
+        "citation-number": "59",
+        "author":
+        [
+            {
+                "literal": "C. Percy, A.S. d’Avila Garcez, S. Dragicevic, M. Fran ̧ca, G. Slabaugh, and T. Weyde."
+            }
+        ],
+        "title": "The need for knowledge extraction: Understanding harmful gambling behavior with neural networks",
+        "container-title": "ECAI 2016",
+        "language": "en",
+        "type": "chapter",
+        "page": "974–981"
+    },
+    {
+        "citation-number": "60",
+        "author":
+        [
+            {
+                "literal": "C. Percy, A.S. d’Avila Garcez, S. Dragicevic, and S. Sarkar."
+            }
+        ],
+        "title": "Lessons learned from problem gambling classification: Indirect discrimination, and algorithmic fairness",
+        "container-title": "Proc. AAAI Fall Symposium, AI for Social Good",
+        "language": "en",
+        "type": "paper-conference",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020,
+                    11
+                ]
+            ]
+        },
+        "publisher-place": "Washington DC, USA"
+    },
+    {
+        "citation-number": "61",
+        "author":
+        [
+            {
+                "family": "Pessach",
+                "given": "D."
+            },
+            {
+                "family": "Shmueli",
+                "given": "E."
+            }
+        ],
+        "title": "Algorithmic fairness",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/2001.09784, 2020"
+        }
+    },
+    {
+        "citation-number": "62",
+        "author":
+        [
+            {
+                "family": "Pinkas",
+                "given": "G."
+            }
+        ],
+        "title": "Reasoning, nonmonotonicity, and learning in connectionist networks that capture propositional knowledge",
+        "volume": "77",
+        "type": "article-journal",
+        "container-title": "Artif. Intell",
+        "issue": "2",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    1995
+                ]
+            ]
+        },
+        "page": "203–247"
+    },
+    {
+        "citation-number": "63",
+        "author":
+        [
+            {
+                "family": "Prates",
+                "given": "M.O.R."
+            },
+            {
+                "family": "Avelar",
+                "given": "P.H.C."
+            },
+            {
+                "family": "Lemos",
+                "given": "H."
+            },
+            {
+                "family": "Lamb",
+                "given": "L.C."
+            },
+            {
+                "family": "Vardi",
+                "given": "M.Y."
+            }
+        ],
+        "title": "Learning to Solve NP-Complete Problems: A Graph Neural Network for Decision TSP",
+        "container-title": "AAAI",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2019
+                ]
+            ]
+        },
+        "page": "33"
+    },
+    {
+        "citation-number": "64",
+        "author":
+        [
+            {
+                "literal": "L. De Raedt, S. Dumanˇci ́c, R. Manhaeve, and G. Marra."
+            }
+        ],
+        "title": "From statistical relational to neuro-symbolic artificial intelligence",
+        "container-title": "IJCAI",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020
+                ]
+            ]
+        },
+        "page": "4943–4950,"
+    },
+    {
+        "citation-number": "65",
+        "author":
+        [
+            {
+                "family": "Raedt",
+                "given": "L.De"
+            },
+            {
+                "family": "Kersting",
+                "given": "K."
+            },
+            {
+                "family": "Natarajan",
+                "given": "S."
+            },
+            {
+                "family": "Poole",
+                "given": "D."
+            }
+        ],
+        "title": "Statistical Rela- tional Artificial Intelligence: Logic, Probability, and Computation",
+        "container-title": "Synthesis Lectures on Artificial Intelligence, and Machine Learning",
+        "publisher": "Morgan & Claypool",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2016
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "66",
+        "author":
+        [
+            {
+                "family": "Raghavan",
+                "given": "S."
+            }
+        ],
+        "title": "AI predictions from IBM research",
+        "note": "Accessed: 2020-09-20.",
+        "language": "en",
+        "type": null,
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020
+                ]
+            ]
+        },
+        "URL": "https://www.ibm.com/blogs/research/2019/12/2020-ai-predictions/,"
+    },
+    {
+        "citation-number": "67",
+        "author":
+        [
+            {
+                "family": "Ribeiro",
+                "given": "M.T."
+            },
+            {
+                "family": "Singh",
+                "given": "S."
+            },
+            {
+                "family": "Guestrin",
+                "given": "C."
+            }
+        ],
+        "title": "Why Should I Trust You?”: Explaining the predictions of any classifier",
+        "container-title": "Proc. 22nd ACM SIGKDD",
+        "publisher": "ACM",
+        "language": "en",
+        "type": "paper-conference",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2016
+                ]
+            ]
+        },
+        "page": "1135–1144"
+    },
+    {
+        "citation-number": "68",
+        "author":
+        [
+            {
+                "family": "Richardson",
+                "given": "M."
+            },
+            {
+                "family": "Domingos",
+                "given": "P."
+            }
+        ],
+        "title": "Markov logic networks",
+        "volume": "62",
+        "type": "article-journal",
+        "container-title": "Mach. Learn",
+        "issue": "1-2",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2006
+                ]
+            ]
+        },
+        "page": "107–136"
+    },
+    {
+        "citation-number": "69",
+        "author":
+        [
+            {
+                "family": "Riegel",
+                "given": "R."
+            },
+            {
+                "family": "Gray",
+                "given": "A.G."
+            },
+            {
+                "family": "Luus",
+                "given": "F.P.S."
+            },
+            {
+                "family": "Khan",
+                "given": "N."
+            },
+            {
+                "family": "Makondo",
+                "given": "N."
+            },
+            {
+                "family": "Akhalwaya",
+                "given": "I.Y."
+            },
+            {
+                "family": "Qian",
+                "given": "H."
+            },
+            {
+                "family": "Fagin",
+                "given": "R."
+            },
+            {
+                "family": "Barahona",
+                "given": "F."
+            },
+            {
+                "family": "Sharma",
+                "given": "U."
+            },
+            {
+                "family": "Ikbal",
+                "given": "S."
+            },
+            {
+                "family": "Karanam",
+                "given": "H."
+            },
+            {
+                "family": "Neelam",
+                "given": "S."
+            },
+            {
+                "family": "Likhyani",
+                "given": "A."
+            },
+            {
+                "family": "Srivastava",
+                "given": "S.K."
+            }
+        ],
+        "title": "Logical neural networks",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "pt",
+        "issued":
+        {
+            "raw": "abs/2006.13155, 2020"
+        }
+    },
+    {
+        "citation-number": "70",
+        "author":
+        [
+            {
+                "literal": "T. Rockt ̈aschel, and S. Riedel."
+            }
+        ],
+        "title": "Learning knowledge base inference with neural theorem provers",
+        "container-title": "Proceedings of the 5th Workshop on Au- tomated Knowledge Base Construction",
+        "publisher": "ACL",
+        "language": "en",
+        "type": "paper-conference",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2016,
+                    6
+                ]
+            ]
+        },
+        "page": "45–50,",
+        "publisher-place": "San Diego, CA"
+    },
+    {
+        "citation-number": "71",
+        "author":
+        [
+            {
+                "literal": "T. Rockt ̈aschel, and S. Riedel."
+            }
+        ],
+        "title": "End-to-end differentiable proving",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1705.11040, 2017"
+        }
+    },
+    {
+        "citation-number": "72",
+        "author":
+        [
+            {
+                "family": "Roemmele",
+                "given": "M."
+            },
+            {
+                "family": "Bejan",
+                "given": "C.A."
+            },
+            {
+                "family": "Gordon",
+                "given": "A.S."
+            }
+        ],
+        "title": "Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning",
+        "container-title": "AAAI Spring Symposium on Logical Formalizations of Commonsense Reason- ing",
+        "publisher": "Stanford University",
+        "language": "en",
+        "type": "paper-conference",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2011,
+                    3
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "73",
+        "author":
+        [
+            {
+                "family": "Rumelhart",
+                "given": "D.E."
+            },
+            {
+                "family": "Hinton",
+                "given": "G.E."
+            },
+            {
+                "family": "Williams",
+                "given": "R.J."
+            }
+        ],
+        "title": "Learning Representations by Back-propagating Errors",
+        "volume": "323",
+        "type": "article-journal",
+        "container-title": "Nature",
+        "issue": "6088",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    1986
+                ]
+            ]
+        },
+        "page": "533–536"
+    },
+    {
+        "citation-number": "74",
+        "author":
+        [
+            {
+                "family": "Russell",
+                "given": "S.J."
+            },
+            {
+                "family": "Hauert",
+                "given": "S."
+            },
+            {
+                "family": "Altman",
+                "given": "R."
+            },
+            {
+                "family": "Veloso",
+                "given": "M."
+            }
+        ],
+        "title": "Ethics of artificial intelligence: Four leading researchers share their concerns, and solutions 34 for reducing societal risks from intelligent machines",
+        "volume": "521",
+        "type": "article-journal",
+        "container-title": "Nature",
+        "issue": "415",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2015
+                ]
+            ]
+        },
+        "page": "418,"
+    },
+    {
+        "citation-number": "75",
+        "author":
+        [
+            {
+                "family": "Santoro",
+                "given": "A."
+            },
+            {
+                "family": "Raposo",
+                "given": "D."
+            },
+            {
+                "family": "Barrett",
+                "given": "D."
+            },
+            {
+                "family": "Malinowski",
+                "given": "M."
+            },
+            {
+                "family": "Pascanu",
+                "given": "R."
+            },
+            {
+                "family": "Battaglia",
+                "given": "P."
+            },
+            {
+                "family": "Lillicrap",
+                "given": "T."
+            }
+        ],
+        "title": "A simple neural network module for relational reasoning",
+        "container-title": "NIPS, 2017",
+        "language": "et",
+        "type": "chapter"
+    },
+    {
+        "citation-number": "76",
+        "author":
+        [
+            {
+                "family": "Schlag",
+                "given": "I."
+            },
+            {
+                "family": "Schmidhuber",
+                "given": "J."
+            }
+        ],
+        "title": "Learning to reason with third-order tensor products",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1811.12143, 2018"
+        }
+    },
+    {
+        "citation-number": "77",
+        "author":
+        [
+            {
+                "family": "Schmid",
+                "given": "U."
+            },
+            {
+                "family": "Muggleton",
+                "given": "S.H."
+            },
+            {
+                "family": "Singh",
+                "given": "R."
+            }
+        ],
+        "title": "Approaches, and applications of inductive programming (Dagstuhl seminar 17382",
+        "volume": "7",
+        "type": "article-journal",
+        "container-title": "Dagstuhl Reports",
+        "issue": "9",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2017
+                ]
+            ]
+        },
+        "page": "86–108"
+    },
+    {
+        "citation-number": "78",
+        "author":
+        [
+            {
+                "family": "Schmidhuber",
+                "given": "J."
+            }
+        ],
+        "title": "Deep learning in neural networks: An overview",
+        "volume": "61",
+        "type": "article-journal",
+        "container-title": "Neural Networks",
+        "language": "nl",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2015
+                ]
+            ]
+        },
+        "page": "85–117"
+    },
+    {
+        "citation-number": "79",
+        "author":
+        [
+            {
+                "family": "Serafini",
+                "given": "L."
+            },
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            }
+        ],
+        "title": "Logic tensor networks: Deep learning, and logical reasoning from data, and knowledge",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1606.04422, 2016"
+        }
+    },
+    {
+        "citation-number": "80",
+        "author":
+        [
+            {
+                "family": "Serafini",
+                "given": "L."
+            },
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            }
+        ],
+        "title": "Learning, and reasoning with logic tensor networks",
+        "container-title": "AI*IA",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2016
+                ]
+            ]
+        },
+        "page": "334–348,"
+    },
+    {
+        "citation-number": "81",
+        "author":
+        [
+            {
+                "family": "Shao",
+                "given": "X."
+            },
+            {
+                "family": "Molina",
+                "given": "A."
+            },
+            {
+                "family": "Vergari",
+                "given": "A."
+            },
+            {
+                "family": "Stelzner",
+                "given": "K."
+            },
+            {
+                "family": "Peharz",
+                "given": "R."
+            },
+            {
+                "family": "Liebig",
+                "given": "T."
+            },
+            {
+                "family": "Kersting",
+                "given": "K."
+            }
+        ],
+        "title": "Conditional sum-product networks: Imposing structure on deep probabilistic architectures",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1905.08550, 2019"
+        }
+    },
+    {
+        "citation-number": "82",
+        "author":
+        [
+            {
+                "family": "Shastri",
+                "given": "L."
+            }
+        ],
+        "title": "SHRUTI: A neurally motivated architecture for rapid, scalable inference",
+        "editor":
+        [
+            {
+                "family": "Hammer",
+                "given": "B."
+            },
+            {
+                "family": "Hitzler",
+                "given": "P."
+            }
+        ],
+        "container-title": "Perspectives of Neural-Symbolic Integration, Studies in Computational Intelligence",
+        "publisher": "Springer",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2007
+                ]
+            ]
+        },
+        "page": "183–203"
+    },
+    {
+        "citation-number": "83",
+        "author":
+        [
+            {
+                "family": "Silver",
+                "given": "D."
+            },
+            {
+                "family": "Schrittwieser",
+                "given": "J."
+            },
+            {
+                "family": "Simonyan",
+                "given": "K."
+            },
+            {
+                "family": "Antonoglou",
+                "given": "I."
+            },
+            {
+                "family": "Huang",
+                "given": "A."
+            },
+            {
+                "family": "Guez",
+                "given": "A."
+            },
+            {
+                "family": "Hubert",
+                "given": "T."
+            },
+            {
+                "family": "Baker",
+                "given": "L."
+            },
+            {
+                "family": "Lai",
+                "given": "M."
+            },
+            {
+                "family": "Bolton",
+                "given": "A."
+            },
+            {
+                "family": "Chen",
+                "given": "Y."
+            },
+            {
+                "family": "Lillicrap",
+                "given": "T."
+            },
+            {
+                "family": "Hui",
+                "given": "F."
+            },
+            {
+                "family": "Sifre",
+                "given": "L."
+            },
+            {
+                "family": "Driessche",
+                "given": "G.",
+                "particle": "van den"
+            },
+            {
+                "family": "Graepel",
+                "given": "T."
+            },
+            {
+                "family": "Hassabis",
+                "given": "D."
+            }
+        ],
+        "title": "Mastering the game of go without human knowledge",
+        "volume": "550",
+        "type": "article-journal",
+        "container-title": "Nature",
+        "issue": "354",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2017
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "84",
+        "author":
+        [
+            {
+                "family": "Smolensky",
+                "given": "P."
+            }
+        ],
+        "title": "Constituent structure, and explanation in an integrated connectionist/symbolic cognitive architecture",
+        "editor":
+        [
+            {
+                "family": "MacDonald",
+                "given": "C."
+            },
+            {
+                "family": "MacDonald",
+                "given": "G."
+            }
+        ],
+        "container-title": "Connectionism: Debates on Psychological Ex- planation",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    1995
+                ]
+            ]
+        },
+        "page": "35",
+        "publisher-place": "Blackwell"
+    },
+    {
+        "citation-number": "85",
+        "author":
+        [
+            {
+                "family": "Socher",
+                "given": "R."
+            },
+            {
+                "family": "Chen",
+                "given": "D."
+            },
+            {
+                "family": "Manning",
+                "given": "C."
+            },
+            {
+                "family": "Ng",
+                "given": "A."
+            }
+        ],
+        "title": "Reasoning with neural tensor networks for knowledge base completion",
+        "container-title": "NIPS",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2013
+                ]
+            ]
+        },
+        "page": "926– 934"
+    },
+    {
+        "citation-number": "86",
+        "author":
+        [
+            {
+                "literal": "H. Stroemfelt, L. Dickens, A.S. d’Avila Garcez, and A. Russo."
+            }
+        ],
+        "title": "On the transferability of VAE embeddings using relational knowledge with semi-supervision",
+        "note": "arXiv:2011.07137 [cs.LG], 2020.",
+        "arxiv": "2011.07137",
+        "language": "en",
+        "type": null
+    },
+    {
+        "citation-number": "87",
+        "author":
+        [
+            {
+                "family": "Sutskever",
+                "given": "I."
+            },
+            {
+                "family": "Hinton",
+                "given": "G."
+            }
+        ],
+        "title": "Using matrices to model symbolic relationship",
+        "container-title": "NIPS",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2009
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "88",
+        "author":
+        [
+            {
+                "family": "Szegedy",
+                "given": "C."
+            },
+            {
+                "family": "Zaremba",
+                "given": "W."
+            },
+            {
+                "family": "Sutskever",
+                "given": "I."
+            },
+            {
+                "family": "Bruna",
+                "given": "J."
+            },
+            {
+                "family": "Erhan",
+                "given": "D."
+            },
+            {
+                "family": "Goodfellow",
+                "given": "I."
+            },
+            {
+                "family": "Fergus",
+                "given": "R."
+            }
+        ],
+        "title": "Intriguing properties of neural networks",
+        "container-title": "International Conference on Learning Representations",
+        "language": "en",
+        "type": "paper-conference",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2014
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "89",
+        "author":
+        [
+            {
+                "family": "Tavares",
+                "given": "A.R."
+            },
+            {
+                "family": "Avelar",
+                "given": "P.H.C."
+            },
+            {
+                "family": "Flach",
+                "given": "J.M."
+            },
+            {
+                "family": "Nicolau",
+                "given": "M."
+            },
+            {
+                "family": "Lamb",
+                "given": "L.C."
+            },
+            {
+                "family": "Vardi",
+                "given": "M.Y."
+            }
+        ],
+        "title": "Understanding boolean function learnability on deep neural networks",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/2009.05908, 2020"
+        }
+    },
+    {
+        "citation-number": "90",
+        "author":
+        [
+            {
+                "family": "Tran",
+                "given": "S."
+            },
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            }
+        ],
+        "title": "Deep logic networks: Inserting, and extracting knowledge from deep belief networks",
+        "volume": "29):246–258",
+        "type": "article-journal",
+        "container-title": "IEEE T. Neur. Net. Learning Syst",
+        "language": "nl",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2018
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "91",
+        "author":
+        [
+            {
+                "family": "Valiant",
+                "given": "L.G."
+            }
+        ],
+        "title": "A theory of the learnable",
+        "volume": "27",
+        "type": "article-journal",
+        "container-title": "Commun. ACM",
+        "issue": "11",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    1142,
+                    11
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "92",
+        "author":
+        [
+            {
+                "family": "Valiant",
+                "given": "L.G."
+            }
+        ],
+        "title": "Three problems in computer science",
+        "volume": "50",
+        "type": "article-journal",
+        "container-title": "J. ACM",
+        "issue": "1",
+        "language": "en",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2003
+                ]
+            ]
+        },
+        "page": "99,"
+    },
+    {
+        "citation-number": "93",
+        "author":
+        [
+            {
+                "family": "Valiant",
+                "given": "L.G."
+            }
+        ],
+        "title": "Knowledge infusion",
+        "container-title": "AAAI",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2006
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "94",
+        "author":
+        [
+            {
+                "family": "Valiant",
+                "given": "L.G."
+            }
+        ],
+        "title": "Probably Approximately Correct: Nature’s Algorithms for Learning, and Prospering in a Complex World",
+        "publisher": "Basic Books",
+        "language": "en",
+        "type": "book",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2013
+                ]
+            ]
+        },
+        "publisher-place": "New York"
+    },
+    {
+        "citation-number": "95",
+        "author":
+        [
+            {
+                "family": "Krieken",
+                "given": "E.",
+                "particle": "van"
+            },
+            {
+                "family": "Acar",
+                "given": "E."
+            },
+            {
+                "family": "Harmelen",
+                "given": "F.",
+                "particle": "van"
+            }
+        ],
+        "title": "Analyzing Differentiable Fuzzy Implications",
+        "container-title": "Proceedings of the 17th International Conference on Principles of Knowledge Representation, and Reasoning",
+        "language": "en",
+        "type": "paper-conference",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2020
+                ]
+            ]
+        },
+        "page": "893– 903,"
+    },
+    {
+        "citation-number": "96",
+        "author":
+        [
+            {
+                "family": "Vaswani",
+                "given": "A."
+            },
+            {
+                "family": "Shazeer",
+                "given": "N."
+            },
+            {
+                "family": "Parmar",
+                "given": "N."
+            },
+            {
+                "family": "Uszkoreit",
+                "given": "J."
+            },
+            {
+                "family": "Jones",
+                "given": "L."
+            },
+            {
+                "family": "Gomez",
+                "given": "A.N."
+            },
+            {
+                "family": "Kaiser",
+                "given": "L."
+            },
+            {
+                "family": "Polosukhin",
+                "given": "I."
+            }
+        ],
+        "title": "Attention is all you need",
+        "container-title": "NIPS",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2017
+                ]
+            ]
+        },
+        "page": "5998–6008"
+    },
+    {
+        "citation-number": "97",
+        "author":
+        [
+            {
+                "literal": "L. Weber, P. Minervini, J. M ̈unchmeyer, U. Leser, and T. Rockt ̈aschel."
+            }
+        ],
+        "title": "NLProlog: Reasoning with weak unification for question answering in natural language",
+        "container-title": "ACL 2019",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2019
+                ]
+            ]
+        },
+        "page": "6151–6161,"
+    },
+    {
+        "citation-number": "98",
+        "author":
+        [
+            {
+                "family": "Werbos",
+                "given": "P.J."
+            }
+        ],
+        "title": "Beyond Regression: New Tools for Prediction, and Anal- ysis in the Behavioral Sciences",
+        "genre": "PhD thesis,",
+        "publisher": "Harvard University",
+        "language": "en",
+        "type": "thesis",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    1974
+                ]
+            ]
+        }
+    },
+    {
+        "citation-number": "99",
+        "author":
+        [
+            {
+                "family": "White",
+                "given": "A."
+            },
+            {
+                "family": "Garcez",
+                "given": "A.S.",
+                "particle": "d’Avila"
+            }
+        ],
+        "title": "Measurable counterfactual local explanations for any classifier",
+        "type": "article-journal",
+        "container-title": "CoRR",
+        "language": "en",
+        "issued":
+        {
+            "raw": "abs/1908.03020, 2019"
+        }
+    },
+    {
+        "citation-number": "100",
+        "author":
+        [
+            {
+                "family": "Yang",
+                "given": "F."
+            },
+            {
+                "family": "Yang",
+                "given": "Z."
+            },
+            {
+                "family": "Cohen",
+                "given": "W.W."
+            }
+        ],
+        "title": "Differentiable learning of logical rules for knowledge base reasoning",
+        "container-title": "Advances in Neural Information Processing Systems 30",
+        "language": "en",
+        "type": "chapter",
+        "issued":
+        {
+            "date-parts":
+            [
+                [
+                    2017
+                ]
+            ]
+        },
+        "page": "2319–2328,"
+    }
+]

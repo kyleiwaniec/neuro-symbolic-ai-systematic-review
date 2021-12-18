@@ -1,0 +1,100 @@
+[1] F. Arabshahi, Z. Lu, S. Singh, and A. Anandkumar. Memory augmented recursive neural networks. CoRR, abs/1911.01545, 2019. 
+[2] F. Arabshahi, S. Singh, and A. Anandkumar. Combining symbolic expressions, and black-box function evaluations in neural programs. In ICLR, 2018. 
+[3] S.H. Bach, M. Broecheler, B. Huang, and L. Getoor. Hinge-loss markov random fields, and probabilistic soft logic. CoRR, abs/1505.04406, 2015. 
+[4] S. Bader, and P. Hitzler. Dimensions of neural-symbolic integration: a structured survey. In S. Artemov, H. Barringer, A. d’Avila Garcez, L. Lamb, and J. Woods, editors, We Will Show Them! Essays in Hon- our of Dov Gabbay, 2005. 
+[5] S. Bader, P. Hitzler, S. H¨olldobler, and A. Witzel. The core method: Connectionist model generation for first-order logic programs. In B. Hammer, and P. Hitzler, editors, Perspectives of Neural-Symbolic 28 Integration, volume 77 of Studies in Computational Intelligence, pages 205–232. Springer, 2007. 
+[6] Y. Bengio, T. Deleu, N. Rahaman, N.R. Ke, S. Lachapelle, O. Bilaniuk, A. Goyal, and C.J. Pal. A meta-transfer objective for learning to disentangle causal mechanisms. CoRR, abs/1901.10912, 2019. 
+[7] A. Bordes, J.Weston, R. Collobert, and Y. Bengio. Learning structured embeddings of knowledge bases. In AAAI’11, 2011. 
+[8] C. Cameron, R. Chen, J. Hartford, and K. Leyton-Brown. Predicting propositional satisfiability via end-to-end learning. In AAAI, 2020. 
+[9] R. Caruana, Y. Lou, J. Gehrke, P. Koch, M. Sturm, and N. Elhadad. Intelligible models for healthcare: Predicting pneumonia risk, and hospital 30-day readmission. In Proceedings of the 21st ACM SIGKDD, pages 1721–1730. ACM, 2015. 
+[10] J. Chen, and K. Batmanghelich. Weakly supervised disentanglement by pairwise similarities. CoRR, abs/1906.01044, 2019. 
+[11] W.W. Cohen, F. Yang, and K. Mazaitis. Tensorlog: Deep learning meets probabilistic dbs. CoRR, abs/1707.05390, 2017. 
+[12] A.S. d’Avila Garcez, T. Besold, L. de Raedt, P. F¨oldi´ak, P. Hitzler, T. Icard, K. K¨uhnberger, L.C. Lamb, R. Miikkulainen, and D. Silver. Neural-symbolic learning, and reasoning: Contributions, and challenges. In AAAI Spring Symposia, 2015. 
+[13] A.S. d’Avila Garcez, M. Gori, L. Lamb, L. Serafini, M. Spranger, and S. Tran. Neural-symbolic computing: An effective methodology for principled integration of machine learning, and reasoning. FLAP, 6(4):611–632, 2019. 
+[14] A.S. d’Avila Garcez, and G. Zaverucha. The connectionist inductive learning, and logic programming system. Appl. Intelligence, 11(1):59–77, 1999. 
+[15] A.S. d’Avila Garcez, K. Broda, and D.M. Gabbay. Symbolic knowledge extraction from trained neural networks: A sound approach. Artif. Intell., 125(1-2):155–207, 2001. 
+[16] A.S. d’Avila Garcez, K. Broda, and D.M. Gabbay. Neural-Symbolic Learning Systems: Foundations, and Applications. Springer, 2002. 29 
+[17] A.S. d’Avila Garcez, and L.C. Lamb. Reasoning about time, and knowledge in neural symbolic learning systems. In NIPS, pages 921–928, 2003. 
+[18] A.S. d’Avila Garcez, L.C. Lamb, and D.M. Gabbay. Connectionist computations of intuitionistic reasoning. Theor. Comput. Sci., 358(1):34– 55, 2006. 
+[19] A.S. d’Avila Garcez, L.C. Lamb, and D.M. Gabbay. Connectionist modal logic: Representing modalities in neural networks. Theoretical Computer Science, 371(1-2):34–53, 2007. 
+[20] A.S. d’Avila Garcez, L.C. Lamb, and D.M. Gabbay. Neural-Symbolic Cognitive Reasoning. Springer, 2009. 
+[21] E. Davis. The use of deep learning for symbolic integration: A review of (Lample, and Charton, 2019). CoRR, abs/1912.05752, 2019. 
+[22] P. Domingos. Every model learned by gradient descent is approximately a kernel machine, 2020. 
+[23] I. Donadello, L. Serafini, and A. S. d’Avila Garcez. Logic tensor networks for semantic image interpretation. In IJCAI-17, pages 1596–1602, 2017. 
+[24] H. Dong, J. Mao, T. Lin, C. Wang, L. Li, and D. Zhou. Neural logic machines. 2019. 
+[25] V. Eubanks. Automating Inequality: How High-Tech Tools Profile, Po- lice, and Punish the Poor. St. Martin’s Press, Inc., USA, 2018. 
+[26] R. Evans, and E. Grefenstette. Learning explanatory rules from noisy data. JAIR, 61:1–64, 2018. 
+[27] M. Fran¸ca, G. Zaverucha, and A.S. d’Avila Garcez. Fast relational learning using bottom clause propositionalization with artificial neural networks. Mach. Learning, 94(1):81–104, 2014. 
+[28] M. Garnelo, and M. Shanahan. Reconciling deep learning with symbolic artificial intelligence: representing objects, and relations. Current Opinion in Behavioral Sciences, 29:17 – 23, 2019. 
+[29] M. Garnelo, K. Arulkumaran, and M. Shanahan. Towards deep symbolic reinforcement learning. CoRR, abs/1609.05518, 2016. 30 
+[30] A. Gidon, T. Zolnik, P. Fidzinski, F. Bolduan, A. Papoutsi, P. Poirazi, M. Holtkamp, I. Vida, and M.E. Larkum. Dendritic action potentials, and computation in human layer 2/3 cortical neurons. Science, 367(6473):83–87, 2020. 
+[31] I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, and Y. Bengio. Generative adversarial nets. In Z. Ghahramani, M. Welling, C. Cortes, N. Lawrence, and K. Q. Weinberger, editors, Advances in Neural Information Processing Systems, volume 27, pages 2672–2680. Curran Associates, Inc., 2014. 
+[32] M. Gori. Machine Learning: A Constraint-Based Approach. Morgan Kaufmann, 1st edition, 2018. 
+[33] A. Graves, G. Wayne, M. Reynolds, T. Harley, I. Danihelka, A. Grabska-Barwinska, S.G. Colmenarejo, E. Grefenstette, T. Ramalho, J. Agapiou, A. Puigdom`enech Badia, K.M. Hermann, Y. Zwols, G. Ostrovski, A. Cain, H. King, C. Summerfield, P. Blunsom, K. Kavukcuoglu, and D. Hassabis. Hybrid computing using a neural network with dynamic external memory. Nature, 538(7626):471–476, 2016. 
+[34] J.Y. Halpern. Reasoning about uncertainty. MIT Press, 2005. 
+[35] B. Hammer, and P. Hitzler, editors. Perspectives of Neural-Symbolic Integration. Springer, 2007. 
+[36] G.E. Hinton. Connectionist symbol processing - preface. Artif. Intell., 46(1-2):1–4, 1990. 
+[37] G.E. Hinton, S. Osindero, and Y. Teh. A fast learning algorithm for deep belief nets. Neural Comput., 18(7):1527–1554, July 2006. 
+[38] S. H¨olldobler, and F.J. Kurfess. CHCL - A connectionist inference system. In Bertram Fronh¨ofer, and GrahamWrightson, editors, Paralleliza- tion in Inference Systems, International Workshop, Dagstuhl Castle, Germany, December 17-18, 1990, Proceedings, volume 590 of Lecture Notes in Computer Science, pages 318–342. Springer, 1990. 
+[39] Q. Huang, P. Smolensky, X. He, L. Deng, and D.Wu. A neural-symbolic approach to natural language tasks. CoRR, abs/1710.11475, 2017. 
+[40] D. Kahneman. Thinking, Fast, and Slow. Farrar, Straus, and Giroux, New York, 2011. 31 
+[41] D. Kahneman, G. Hinton, Y. Bengio, Y. LeCun, and F. Rossi. AAAI-20 fireside chat with Daniel Kahneman. https://vimeo.com/390814190?ref=tw-share, 2020. Accessed: 2020-11-20. 
+[42] H. Kautz. The Third AI Summer, AAAI Robert S. Engelmore Memorial Lecture, Thirty-fourth AAAI Conference on Artificial Intelligence, New York, NY, February 10, 2020. https://www.cs.rochester.edu/u/kautz/talks/Kautz%20Engelmore%20Lecture.pdf. Accessed: 2020-11-15. 
+[43] R. Khardon, and D. Roth. Learning to reason. J. ACM, 44(5), 1997. 
+[44] A.R. Kosiorek, S. Sabour, Y.W. Teh, and G.E. Hinton. Stacked capsule autoencoders. In NeurIPS 2019, pages 15486–15496, 2019. 
+[45] A. Krizhevsky, I. Sutskever, and G.E. Hinton. Imagenet classification with deep convolutional neural networks. Commun. ACM, 60(6):84–90, May 2017. 
+[46] B.M. Lake, T.D. Ullman, J.B. Tenenbaum, and S.J. Gershman. Building machines that learn, and think like people. CoRR, abs/1604.00289, 2016. 
+[47] L.C. Lamb, A.S. d’Avila Garcez, M. Gori, M. Prates, P. Avelar, and M.Y. Vardi. Graph neural networks meet neural-symbolic computing: A survey, and perspective. In IJCAI 2020, pages 4877–4884, 2020. 
+[48] G. Lample, and F. Charton. Deep learning for symbolic mathematics. In ICLR, 2020. 
+[49] Y. LeCun, Y. Bengio, and G. Hinton. Deep learning. Nature, 521(7553):436–444, 2015. 
+[50] R. Manhaeve, S. Dumancic, A. Kimmig, T. Demeester, and L. De Raedt. Deepproblog: Neural probabilistic logic programming. In NIPS. 2018. 
+[51] J. Mao, C. Gan., P. Kohli, J. Tenenbaum, and J. Wu. The Neuro- Symbolic Concept Learner: Interpreting scenes, words, and sentences from natural supervision. ICLR, 2019. 
+[52] G. Marcus. The next decade in AI: Four steps towards robust artificial intelligence. CoRR, abs/1801.00631, 2020. 32 
+[53] G. Marra, F. Giannini, M. Diligenti, and M. Gori. Lyrics: A general interface layer to integrate logic inference, and deep learning. In Joint European Conference on Machine Learning, and Knowledge Discovery in Databases, pages 283–298. Springer, 2019. 
+[54] P. Minervini, M. Bosnjak, T. Rockt¨aschel, S. Riedel, and E. Grefenstette. Differentiable reasoning on large knowledge bases, and natural language. CoRR, abs/1912.10824, 2019. 
+[55] S. Muggleton. Inductive logic programming. New Generation Comput- ing, 8(4):295–318, 1991. 
+[56] S. Muggleton, and D. Lin. Meta-interpretive learning of higher-order dyadic datalog: Predicate invention revisited. In IJCAI, pages 1551– 1557, 2013. 
+[57] M. Page. Connectionist modelling in psychology: A localist manifesto. BBS, 23(4):443–512, 2000. 
+[58] J. Pearl. The seven tools of causal inference, with reflections on machine learning. Commun. ACM, 62(3):54–60, February 2019. 
+[59] C. Percy, A.S. d’Avila Garcez, S. Dragicevic, M. Fran¸ca, G. Slabaugh, and T. Weyde. The need for knowledge extraction: Understanding harmful gambling behavior with neural networks. In ECAI 2016, pages 974–981. 
+[60] C. Percy, A.S. d’Avila Garcez, S. Dragicevic, and S. Sarkar. Lessons learned from problem gambling classification: Indirect discrimination, and algorithmic fairness. In Proc. AAAI Fall Symposium, AI for Social Good, Washington DC, USA, November, 2020. 
+[61] D. Pessach, and E. Shmueli. Algorithmic fairness. CoRR, abs/2001.09784, 2020. 
+[62] G. Pinkas. Reasoning, nonmonotonicity, and learning in connectionist networks that capture propositional knowledge. Artif. Intell., 77(2):203–247, 1995. 
+[63] M.O.R. Prates, P.H.C. Avelar, H. Lemos, L.C. Lamb, and M.Y. Vardi. Learning to Solve NP-Complete Problems: A Graph Neural Network for Decision TSP. In AAAI, 2019. 33 
+[64] L. De Raedt, S. Dumanˇci´c, R. Manhaeve, and G. Marra. From statistical relational to neuro-symbolic artificial intelligence. In IJCAI, pages 4943–4950, 2020. 
+[65] L. De Raedt, K. Kersting, S. Natarajan, and D. Poole. Statistical Rela- tional Artificial Intelligence: Logic, Probability, and Computation. Synthesis Lectures on Artificial Intelligence, and Machine Learning. Morgan & Claypool, 2016. 
+[66] S. Raghavan. 2020 AI predictions from IBM research. https://www.ibm.com/blogs/research/2019/12/2020-ai-predictions/, 2019. Accessed: 2020-09-20. 
+[67] M.T. Ribeiro, S. Singh, and C. Guestrin. “Why Should I Trust You?”: Explaining the predictions of any classifier. In Proc. 22nd ACM SIGKDD, pages 1135–1144. ACM, 2016. 
+[68] M. Richardson, and P. Domingos. Markov logic networks. Mach. Learn., 62(1-2):107–136, 2006. 
+[69] R. Riegel, A.G. Gray, F.P.S. Luus, N. Khan, N. Makondo, I.Y. Akhalwaya, H. Qian, R. Fagin, F. Barahona, U. Sharma, S. Ikbal, H. Karanam, S. Neelam, A. Likhyani, and S.K. Srivastava. Logical neural networks. CoRR, abs/2006.13155, 2020. 
+[70] T. Rockt¨aschel, and S. Riedel. Learning knowledge base inference with neural theorem provers. In Proceedings of the 5th Workshop on Au- tomated Knowledge Base Construction, pages 45–50, San Diego, CA, June 2016. ACL. 
+[71] T. Rockt¨aschel, and S. Riedel. End-to-end differentiable proving. CoRR, abs/1705.11040, 2017. 
+[72] M. Roemmele, C.A. Bejan, and A.S. Gordon. Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning. In AAAI Spring Symposium on Logical Formalizations of Commonsense Reason- ing, Stanford University, March 2011. 
+[73] D.E. Rumelhart, G.E. Hinton, and R.J. Williams. Learning Representations by Back-propagating Errors. Nature, 323(6088):533–536, 1986. 
+[74] S.J. Russell, S. Hauert, R. Altman, and M. Veloso. Ethics of artificial intelligence: Four leading researchers share their concerns, and solutions 34 for reducing societal risks from intelligent machines. Nature, 521:415– 418, 2015. 
+[75] A. Santoro, D. Raposo, D. Barrett, M. Malinowski, R. Pascanu, P. Battaglia, and T. Lillicrap. A simple neural network module for relational reasoning. In NIPS, 2017. 
+[76] I. Schlag, and J. Schmidhuber. Learning to reason with third-order tensor products. CoRR, abs/1811.12143, 2018. 
+[77] U. Schmid, S.H. Muggleton, and R. Singh. Approaches, and applications of inductive programming (Dagstuhl seminar 17382). Dagstuhl Reports, 7(9):86–108, 2017. 
+[78] J. Schmidhuber. Deep learning in neural networks: An overview. Neural Networks, 61:85–117, 2015. 
+[79] L. Serafini, and A.S. d’Avila Garcez. Logic tensor networks: Deep learning, and logical reasoning from data, and knowledge. CoRR, abs/1606.04422, 2016. 
+[80] L. Serafini, and A.S. d’Avila Garcez. Learning, and reasoning with logic tensor networks. In AI*IA, pages 334–348, 2016. 
+[81] X. Shao, A. Molina, A. Vergari, K. Stelzner, R. Peharz, T. Liebig, and K. Kersting. Conditional sum-product networks: Imposing structure on deep probabilistic architectures. CoRR, abs/1905.08550, 2019. 
+[82] L. Shastri. SHRUTI: A neurally motivated architecture for rapid, scalable inference. In B. Hammer, and P. Hitzler, editors, Perspectives of Neural-Symbolic Integration, Studies in Computational Intelligence, pages 183–203. Springer, 2007. 
+[83] D. Silver, J. Schrittwieser, K. Simonyan, I. Antonoglou, A. Huang, A. Guez, T. Hubert, L. Baker, M. Lai, A. Bolton, Y. Chen, T. Lillicrap, F. Hui, L. Sifre, G. van den Driessche, T. Graepel, and D. Hassabis. Mastering the game of go without human knowledge. Nature, 550(354), 2017. 
+[84] P. Smolensky. Constituent structure, and explanation in an integrated connectionist/symbolic cognitive architecture. In C. MacDonald, and G. MacDonald, editors, Connectionism: Debates on Psychological Ex- planation. Blackwell, 1995. 35 
+[85] R. Socher, D. Chen, C. Manning, and A. Ng. Reasoning with neural tensor networks for knowledge base completion. In NIPS, pages 926– 934. 2013. 
+[86] H. Stroemfelt, L. Dickens, A.S. d’Avila Garcez, and A. Russo. On the transferability of VAE embeddings using relational knowledge with semi-supervision, arXiv:2011.07137 [cs.LG], 2020. 
+[87] I. Sutskever, and G. Hinton. Using matrices to model symbolic relationship. In NIPS. 2009. 
+[88] C. Szegedy, W. Zaremba, I. Sutskever, J. Bruna, D. Erhan, I. Goodfellow, and R. Fergus. Intriguing properties of neural networks. In International Conference on Learning Representations, 2014. 
+[89] A.R. Tavares, P.H.C. Avelar, J.M. Flach, M. Nicolau, L.C. Lamb, and M.Y. Vardi. Understanding boolean function learnability on deep neural networks. CoRR, abs/2009.05908, 2020. 
+[90] S. Tran, and A.S. d’Avila Garcez. Deep logic networks: Inserting, and extracting knowledge from deep belief networks. IEEE T. Neur. Net. Learning Syst., (29):246–258, 2018. 
+[91] L.G. Valiant. A theory of the learnable. Commun. ACM, 27(11):1134– 1142, November 1984. 
+[92] L.G. Valiant. Three problems in computer science. J. ACM, 50(1):96– 99, 2003. 
+[93] L.G. Valiant. Knowledge infusion. In AAAI, 2006. 
+[94] L.G. Valiant. Probably Approximately Correct: Nature’s Algorithms for Learning, and Prospering in a Complex World. Basic Books, New York, 2013. 
+[95] E. van Krieken, E. Acar, and F. van Harmelen. Analyzing Differentiable Fuzzy Implications. In Proceedings of the 17th International Conference on Principles of Knowledge Representation, and Reasoning, pages 893– 903, 2020. 
+[96] A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A.N. Gomez, L. Kaiser, and I. Polosukhin. Attention is all you need. In NIPS, pages 5998–6008. 2017. 36 
+[97] L. Weber, P. Minervini, J. M¨unchmeyer, U. Leser, and T. Rockt¨aschel. NLProlog: Reasoning with weak unification for question answering in natural language. In ACL 2019, pages 6151–6161, 2019. 
+[98] P. J. Werbos. Beyond Regression: New Tools for Prediction, and Anal- ysis in the Behavioral Sciences. PhD thesis, Harvard University, 1974. 
+[99] A. White, and A.S. d’Avila Garcez. Measurable counterfactual local explanations for any classifier. CoRR, abs/1908.03020, 2019. 
+[100] F. Yang, Z. Yang, and W.W Cohen. Differentiable learning of logical rules for knowledge base reasoning. In Advances in Neural Information Processing Systems 30, pages 2319–2328, 2017.

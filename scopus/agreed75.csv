@@ -1,0 +1,96 @@
+Key,DOI,Publication Title,Publication Year,Title_x,symbolic,NN,comments
+7MMJY5BM,10.1007/s13218-019-00601-5,KI - Kunstliche Intelligenz,2019,The CoRg Project: Cognitive Reasoning,logic,recurrent neural network (RNN),semi-structured text data 
+8MT47N5Y,10.1111/coin.12404,Computational Intelligence,2021,A machine learning approach for optimizing heuristic decision-making in Web Ontology Language reasoners,description logic,,"read: https://onlinelibrary.wiley.com/doi/epdf/10.1111/coin.12404
+requested via researchgate"
+B47SSE6P,10.1016/j.patrec.2019.04.024,Pattern Recognition Letters,2019,Fuzzy commonsense reasoning for multimodal sentiment analysis,fuzzy logic,convolutional neural network (CNN),sentiment analysis. includes text datasets
+UHPX4UN3,10.1016/j.ins.2021.02.031,Information Sciences,2021,Explainable classification by learning human-readable sentences in feature subsets,"genetic programming (GP),
+rule based",gradient descent,
+EGI547RA,10.1109/ACCESS.2019.2948081,IEEE Access,2019,Question Answering Systems with Deep Learning-Based Symbolic Processing,symbolic processing,neural network (NN),
+QJ4AF8EJ,10.1016/j.eswa.2020.113663,Expert Systems with Applications,2020,A novel method based on symbolic regression for interpretable semantic similarity measurement,,,
+W2Q4E8E4,10.1007/s12652-020-01989-x,Journal of Ambient Intelligence and Humanized Computing,2021,A probabilistic logic approach to outcome prediction in team games using historical data and domain knowledge,,,
+CEVZ9A8R,10.1016/j.neucom.2017.07.007,Neurocomputing,2018,Semantics of deductive databases with spiking neural P systems,,,
+VYX2CHG3,10.3233/JIFS-201833,Journal of Intelligent and Fuzzy Systems,2021,A probabilistic modeling approach for interpretable data inference and classification,,,not available online
+3YFVRRKE,10.1109/ACCESS.2020.2972751,IEEE Access,2020,Hierarchical Graph Transformer-Based Deep Learning Model for Large-Scale Multi-Label Text Classification,,,
+6FRUK6MX,10.1007/s40815-019-00630-0,International Journal of Fuzzy Systems,2019,Analysis of Travellers’ Online Reviews in Social Networking Sites Using Fuzzy Logic Approach,,,
+WET9CYNX,10.1109/TNNLS.2021.3072166,IEEE Transactions on Neural Networks and Learning Systems,2021,Breaking Neural Reasoning Architectures With Metamorphic Relation-Based Adversarial Examples,,,
+GW9R9ULR,10.1007/978-3-642-40621-8_6,Studies in Computational Intelligence,2014,A geometric algebra based distributional model to encode sentences semantics,,,Requested on RG
+TUWJMS6C,10.1007/s10458-019-09404-2,Autonomous Agents and Multi-Agent Systems,2019,argument,,,
+YX2SCA8W,10.1016/j.ins.2017.11.041,Information Sciences,2018,Automatic feature engineering for regression models with machine learning: An evolutionary computation and statistics hybrid,,,
+4EF4BXD9,10.1007/s12065-019-00301-x,Evolutionary Intelligence,2020,Solving the twitter sentiment analysis problem based on a machine learning-based approach,semantic similarity,,
+44KCPGAV,10.1109/TCYB.2020.3032707,IEEE Transactions on Cybernetics,2020,Semisupervised Learning via Axiomatic Fuzzy Set Theory and SVM,,,
+ACDMDN8W,10.1108/IJWIS-11-2020-0067,International Journal of Web Information Systems,2021,A new neutrosophic TF-IDF term weighting for text mining tasks: text classification use case,,,
+TBJ6EUJC,10.1016/j.eswa.2019.113100,Expert Systems with Applications,2020,An explainable AI decision-support-system to automate loan underwriting,,,
+QDA52ZBD,10.1016/j.ins.2019.05.008,Information Sciences,2019,Multi-stage mixed rule learning approach for advancing performance of rule-based classification,,,classification dataset  considered from UCI repo
+DMGEINNX,10.1186/s13673-019-0196-3,Human-centric Computing and Information Sciences,2019,Attention-based Sentiment Reasoner for aspect-based sentiment analysis,,,
+YMP2X9RF,10.1016/j.neucom.2015.03.104,Neurocomputing,2016,Gaussian-PSO with fuzzy reasoning based on structural learning for training a Neural Network,,,iris dataset
+3NK9NFCA,10.1016/j.future.2021.06.033,Future Generation Computer Systems,2021,Detecting malicious behavior in social platforms via hybrid knowledge- and data-driven systems,,,
+TIRWL4WH,10.3233/JIFS-191721,Journal of Intelligent and Fuzzy Systems,2020,A content recommendation system for effective e-learning using embedded feature selection and fuzzy DT based CNN,,,Article only available in RG
+7I4CIKII,10.1016/j.neunet.2016.09.001,Neural Networks,2017,A modular architecture for transparent computation in recurrent neural networks,,,
+BAMGPUCX,10.1109/ACCESS.2021.3053917,IEEE Access,2021,Sentence-Level Classification Using Parallel Fuzzy Deep Learning Classifier,,,
+XVUJBUP5,10.1109/TFUZZ.2020.3021713,IEEE Transactions on Fuzzy Systems,2021,Hierarchical Fuzzy Neural Networks with Privacy Preservation for Heterogeneous Big Data,,,
+GIC4LEU4,10.1109/MIS.2011.93,IEEE Intelligent Systems,2013,Reasoning about goal revelation in human negotiation,,,RL 
+LVKTK7F6,10.1016/j.neunet.2019.09.035,Neural Networks,2020,A sparse deep belief network with efficient fuzzy learning framework,,,
+S49KWVJ7,10.3233/JIFS-18046,Journal of Intelligent and Fuzzy Systems,2019,A fast learning algorithm based on extreme learning machine for regular fuzzy neural network,,,paper available on RG
+CWDWGM8M,10.1016/j.fss.2019.02.010,Fuzzy Sets and Systems,2019,Single index fuzzy neural networks using locally weighted polynomial regression,,,classification datasets
+33PCBE9R,10.3233/JIFS-202641,Journal of Intelligent and Fuzzy Systems,2021,RoRePo: Detecting the role information and relative position information for contexts in multi-turn dialogue generation,,,Article is not available. 
+QUTS25F6,10.1080/19462166.2015.1107134,Argument and Computation,2015,Probabilistic abstract argumentation: An investigation with Boltzmann machines,,,"not sure of input data, so included. "
+8NM7C7KQ,10.1016/j.knosys.2010.06.004,Knowledge-Based Systems,2011,Discovering common outcomes of agents' communicative actions in various domains,,,Article is not available. Requested in researchgate. 
+2FCUJH2G,10.1007/s10462-010-9188-4,Artificial Intelligence Review,2011,From symbolic to sub-symbolic information in question classification,Rule,"ML,
+SVM","rules based results as input to SVM. Not sure that qualifies as NeSy, but let's keep for now."
+2PNFHS7L,10.1016/j.neucom.2021.02.021,Neurocomputing,2021,Heterogeneous graph reasoning for knowledge-grounded medical dialogue system,"heterogeneous graph reasoning (HGR),
+graphical model",recurrent neural network (RNN),"Though it is medical application, might be useful. Seems like they have used text data."
+LFL6YQGV,10.1016/j.artmed.2020.101986,Artificial Intelligence in Medicine,2021,A Decision Tree-Initialised Neuro-fuzzy Approach for Clinical Decision Support,"fuzzy rule,
+trees (DT, RF, GBT)",fuzzy neural network (FNN),"not sure if this can be considered text data, or if it's really categorical"
+SMHUZFII,10.1016/j.knosys.2018.03.025,Knowledge-Based Systems,2018,On the predictive analysis of behavioral massive job data using embedded clustering and deep recurrent neural networks,temporal symbolic sequences representation,neural network (NN),"click prediction, doc2Vec"
+GJY6CMSS,10.1016/j.asoc.2020.106435,Applied Soft Computing Journal,2020,User reviews: Sentiment analysis using lexicon integrated two-channel CNN–LSTM​ family models,Heuristic rules,CNN+LSTM,"sentiment padding heuristic rules: Basically, instead of zero-padding to make equal length vectors, sentiment words are repeated."
+JGU2SECC,10.1016/j.artmed.2019.101772,Artificial Intelligence in Medicine,2020,Medical knowledge embedding based on recursive neural network for multi-disease diagnosis,FOL,RNKN,
+676S4D2D,10.1007/s13218-015-0377-9,KI - Kunstliche Intelligenz,2015,The RatioLog Project: Rational Extensions of Logical Reasoning,reasoning,ML,question answering
+NB39QA35,10.1016/j.neunet.2018.06.012,Neural Networks,2018,Learning to activate logic rules for textual reasoning,"Sequence,
+Decision making",RL,"textual reasoning,
+Decision making"
+JN4IZETG,10.1007/s10994-021-05968-x,Machine Learning,2021,autoBOT: evolving neuro-symbolic representations for explainable low resource text classification,symbolic representations,"BERT,
+transformer,
+neural network (NN),
+embedding",looks like optimization task paper.
+A8RPZG9Y,10.1080/01691864.2019.1632223,Advanced Robotics,2019,Survey on frontiers of language and robotics,1,1,"Survey paper. Though the application seems irrelevant, we can skim through in the next level"
+KDZ6AWYV,10.1109/TVCG.2019.2934595,IEEE Transactions on Visualization and Computer Graphics,2020,Visual Interaction with Deep Learning Models through Collaborative Semantic Inference,human reasoning,neural network (NN),"document summarization. not sure about this one, as it involves human in the loop."
+Q7RZGZ48,10.1007/s10489-017-1109-7,Applied Intelligence,2018,Hybridizing metric learning and case-based reasoning for adaptable clickbait detection,case based reasoning (CBR),neural network (NN),
+7Q5JRVK2,10.1016/j.artint.2015.08.011,Artificial Intelligence,2017,Semantic-based regularization for learning and inference,"statistical relational learning (SLR, RML),
+fuzzy logic","neural network (NN),
+fuzzy logic",FOL formulas as constraints to optimization
+Y5DEU66R,10.1080/0144929X.2019.1584246,Behaviour and Information Technology,2019,Opera-oriented character relations extraction for role interaction and behaviour Understanding: a deep learning approach,reasoning,recurrent neural network (RNN),not open access - couldn't find article ; can request in researchgate
+2AVPZCMD,10.1016/j.eswa.2021.114658,Expert Systems with Applications,2021,Effective feature representation using symbolic approach for classification and clustering of big data,Rough Set Theory (RST),SVM,"not strictly NN, but one could consider SVM because of Gradient descent."
+XWFGXQVI,10.1016/j.compind.2015.10.007,Computers in Industry,2016,Integrating a semantic-based retrieval agent into case-based reasoning systems: A case study of an online bookstore,case based reasoning (CBR),embedding,ontology as well
+SESHVYVF,10.3233/JIFS-201495,Journal of Intelligent and Fuzzy Systems,2021,Neural network classifier for automatic course-keeping based on fuzzy logic,fuzzy logic,neural network (NN),article available on request from researchgate. 
+F4EY43IL,10.1109/TFUZZ.2018.2880933,IEEE Transactions on Fuzzy Systems,2019,Fuzzy Kernel Alignment with Application to Attribute Reduction of Heterogeneous Data,fuzzy logic,machine learning (ML),fuzzy similarity
+74QZV8X9,10.1109/ACCESS.2020.3019586,IEEE Access,2020,Robust reasoning over heterogeneous textual information for fact verification,embedding,graph neural network (GNN),
+NJFLVCKA,10.1186/s13326-015-0015-3,Journal of Biomedical Semantics,2015,Formalizing biomedical concepts from textual definitions,relational logic,machine learning (ML),
+9YGPA79Q,10.1109/TKDE.2011.158,IEEE Transactions on Knowledge and Data Engineering,2012,A framework for learning comprehensible theories in XML document classification,higher order logic,"trees (DT, RF, GBT)",
+A59DP9ZJ,10.1016/j.jbi.2014.07.007,Journal of Biomedical Informatics,2014,Relational machine learning for electronic health record-driven phenotyping,inductive logic prgramming (ILP),bayesnet (TAN),
+PD2A2ZVV,10.1007/s11042-019-08125-8,Multimedia Tools and Applications,2019,"Ontology based E-learning framework: A personalized, adaptive and context aware model",ontology,ML,
+9VUI3ZWE,10.1016/j.knosys.2020.105972,Knowledge-Based Systems,2020,Interpretable neural networks based on continuous-valued logic and multicriteria decision operators,Continous logic and decision making,DL,XAI ?!
+KTEHK4MZ,10.1016/j.neucom.2020.12.040,Neurocomputing,2021,Deepening the IDA* algorithm for knowledge graph reasoning through neural network architecture,path finding and reasoning,RL,
+RDSQSBN7,10.1109/TASLP.2021.3082295,IEEE/ACM Transactions on Audio Speech and Language Processing,2021,Relation Extraction in Dialogues: A Deep Learning Model Based on the Generality and Specialty of Dialogue Text,attention network,graph reasoning,attention using BERT followed by graph reasoning
+AKF9GTCC,10.1007/s11277-021-08331-4,Wireless Personal Communications,2021,Deep Graph-Long Short-Term Memory: A Deep Learning Based Approach for Text Classification,graph representations,LSTM,
+M934ED4J,10.1007/s10772-020-09766-z,International Journal of Speech Technology,2020,Public opinion mining using natural language processing technique for improvisation towards smart city,fuzzy logic,hidden markov model (HMM),HMM used to convert voice to text ; 
+PE6WNP93,10.1007/s10710-019-09368-y,Genetic Programming and Evolvable Machines,2020,Transfer learning in constructive induction with Genetic Programming,Embedding,,
+T87KI7TJ,10.1109/ACCESS.2018.2869838,IEEE Access,2018,Constructing Dynamic Topic Models Based on Variational Autoencoder and Factor Graph,factor graph,variational autoencoder,
+CBUVV5TK,10.1016/j.ins.2021.02.018,Information Sciences,2021,An ontology-based deep learning approach for triple classification with out-of-knowledge-base entities,ontology,"ComplEx,
+DistMult,
+embedding",
+96YWDJ2H,10.1007/978-3-642-22913-8_3,Studies in Computational Intelligence,2011,Administrative document analysis and structure,case based reasoning (CBR),neural network (NN),
+M6MWATK2,10.1016/j.suscom.2017.10.010,Sustainable Computing: Informatics and Systems,2018,Intelligent computing system based on pattern recognition and data mining algorithms,fuzzy logic,"neural network (NN),
+trees ","Compares various DM, ML techniques. Position paper"
+Z3Y3BTDB,10.1016/j.ins.2014.09.004,Information Sciences,2015,Fuzzy Transfer Learning: Methodology and application,fuzzy logic,transfer learning (TL),address the problem of learning tasks that have no prior direct contextual knowledge
+6DWCY3EC,10.1016/j.neunet.2012.02.013,Neural Networks,2012,Assessing cognitive alignment in different types of dialog by means of a network model,"graph representation,
+dialogical alignment",NN,"dialog, 
+conversation, 
+graph representations of communication units as input to machine learning"
+JA5HHBV2,10.1016/j.neunet.2020.01.019,Neural Networks,2020,Deterministic learning of hybrid Fuzzy Cognitive Maps and network reduction approaches,Fuzzy,NN,
+54LE8HAY,10.1109/TNNLS.2013.2275937,IEEE Transactions on Neural Networks and Learning Systems,2014,Multi-level fuzzy min-max neural network classifier,Fuzzy,NL,
+ZH4FMZ2Y,10.1109/TFUZZ.2016.2599855,IEEE Transactions on Fuzzy Systems,2017,An Incremental Learning of Concept Drifts Using Evolving Type-2 Recurrent Fuzzy Neural Networks,Fuzzy,NN,
+NSMF6RCH,10.1016/j.engappai.2016.11.001,Engineering Applications of Artificial Intelligence,2017,Improving relevance in a content pipeline via syntactic generalization,"parse tree,
+syntactic generalization (SG)",DL,Application based on NLP
+GS3TRUYZ,10.1016/j.neucom.2017.10.010,Neurocomputing,2018,Semi-supervised learning for big social data analysis,"graph represenatation,
+common sense",SVM,emotion recognition
+7YX447XS,10.1016/j.eswa.2016.01.007,Expert Systems with Applications,2016,Concept generalization and fusion for abstractive sentence generation,semantic resources,ML,Uses external data sources to semantically enrich text summarization. It is the application text fusion.
