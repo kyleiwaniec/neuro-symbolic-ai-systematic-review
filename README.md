@@ -45,6 +45,16 @@ Google docs:
 -   [Neural-Symbolic Lit reveiw - A Doc with some random
     notes.](https://docs.google.com/document/d/1JtQiJ14oS--3bqsiD1SDfQqnVQgr6_mRK2aFNG01bis/edit#heading=h.akl3ltvcromx)
 
+Slides:
+-------
+
+-   [Neuro-Symbolic AI for Learning and Reasoning in NLP: A Systematic
+    Review](https://docs.google.com/presentation/d/1dl849Ka0RF6Q57EFCplc-PJ5mkyWLrlw5CeP644Afkw/edit#slide=id.gfbe02c523e_2_19)
+    - Presentation given in Robert Ross reading group Dec 2021
+
+-   [Kautz
+    Categories](https://docs.google.com/presentation/d/1MwTgThgvFzX2V6fB8BxYo1HqZttkmOwpdya6Iupohx0/edit#slide=id.gf2427277b3_0_10)
+
 Overleaf:
 ---------
 
