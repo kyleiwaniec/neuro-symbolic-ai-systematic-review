@@ -6,9 +6,9 @@ JN4IZETG,JN4IZETG,autoBOT: evolving neuro-symbolic representations for explainab
 KTEHK4MZ,KTEHK4MZ,Deepening the IDA* algorithm for knowledge graph reasoning through neural network architecture,1,1,1,1,1,1,0,0,0,0.6666666667,,Q5 Is the analysis of the results relevant to the research question?
 RDSQSBN7,RDSQSBN7,Relation Extraction in Dialogues: A Deep Learning Model Based on the Generality and Specialty of Dialogue Text,1,1,1,1,1,1,0,0,1,0.7777777778,,Q6 Does the test evidence support the findings presented?
 3YFVRRKE,3YFVRRKE,Hierarchical Graph Transformer-Based Deep Learning Model for Large-Scale Multi-Label Text Classification,1,1,1,1,1,1,1,0,0.5,0.8333333333,,Q7 Is the study algorithm sufficiently documented to be reproducible? (independent researchers arriving at the same results using their own data and methods)
-4EF4BXD9,4EF4BXD9,"Twitter sentiment analysis is perfomed using support vector machine and multinomial naïve Bayes classifcation algorithms. Vector space is computed by weighted combination of the values obtained from four methods (Term Frequency and Inverse Document Frequency, semantic similarity, sentiment scoring using SentiWordNet, and sentiment scoring based on the class of tweets). The weighted values obtained from four methods are combined based on the Einstein sum as an important T-conorm method.",0.5,0.5,0.5,1,",5",1,1,0,0.5,0.5555555556,,Q8 Is code provided?
-JGU2SECC,JGU2SECC,Medical knowledge embedding based on recursive neural network for multi-disease diagnosis,1,1,1,1,1,1,0.5,0,0,0.7222222222,,
-74QZV8X9,74QZV8X9,Robust reasoning over heterogeneous textual information for fact verification,0.5,0.5,1,1,1,1,1,0,0,0.6666666667,,
+4EF4BXD9,4EF4BXD9,"Twitter sentiment analysis is perfomed using support vector machine and multinomial naïve Bayes classifcation algorithms. Vector space is computed by weighted combination of the values obtained from four methods (Term Frequency and Inverse Document Frequency, semantic similarity, sentiment scoring using SentiWordNet, and sentiment scoring based on the class of tweets). The weighted values obtained from four methods are combined based on the Einstein sum as an important T-conorm method.",0.5,0.5,0.5,1,0.5,1,1,0,0.5,0.6111111111,,Q8 Is code provided?
+JGU2SECC,JGU2SECC,Medical knowledge embedding based on recursive neural network for multi-disease diagnosis,1,1,1,1,1,1,0.5,0,0,0.7222222222,,"Q9 Are performance metrics provided? (hardware, training time, inference time)"
+74QZV8X9,74QZV8X9,Robust reasoning over heterogeneous textual information for fact verification,0.5,1,1,1,1,1,1,0,0,0.7222222222,,
 7MMJY5BM,7MMJY5BM,The CoRg Project: Cognitive Reasoning,1,0,0,0,1,0,0,1,1,0.4444444444,,
 B47SSE6P,B47SSE6P,Fuzzy commonsense reasoning for multimodal sentiment analysis,1,1,1,1,1,1,0,1,0,0.7777777778,,
 EGI547RA,EGI547RA,Question Answering Systems with Deep Learning-Based Symbolic Processing,0,1,0,1,1,1,1,0,0,0.5555555556,,
@@ -24,7 +24,7 @@ GS3TRUYZ,GS3TRUYZ,Semi-supervised learning for big social data analysis,1,1,1,1,
 2-s2.0-85096590382,2-s2.0-85096590382,Neural-Symbolic Relational Reasoning on Graph Models: Effective Link Inference and Computation from Knowledge Bases,1,1,1,1,1,0.5,1,0,0,0.7222222222,,
 2-s2.0-85105153943,2-s2.0-85105153943,Mapping natural-language problems to formal-language solutions using structured neural representations,1,1,1,0.5,1,1,1,0,0,0.7222222222,,
 2-s2.0-85091286980,2-s2.0-85091286980,A Framework for a Comprehensive Conceptualization of Urban Constructs,1,1,0,0,0,0,0,1,0,0.3333333333,,
-2-s2.0-85087103850,2-s2.0-85087103850,Automated ontology-based annotation of scientific literature using deep learning,0,0.5,1,1,0.5,1,0,0,0,0.4444444444,,
+2-s2.0-85087103850,2-s2.0-85087103850,Automated ontology-based annotation of scientific literature using deep learning,1,0.5,1,1,1,1,0,0,0,0.6111111111,,
 2-s2.0-85106687657,2-s2.0-85106687657,Just Add Functions: A Neural-Symbolic Language Model,1,1,1,1,1,1,0,0,0,0.6666666667,,
 2-s2.0-85083954234,2-s2.0-85083954234,"The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision",1,1,1,0.5,1,1,1,1,0,0.8333333333,,
 2-s2.0-85062227737,2-s2.0-85062227737,Using Deep Learning and an External Knowledge Base to Develop Human-Robot Dialogues,1,1,1,0.5,1,1,1,0,0,0.7222222222,,
@@ -40,3 +40,4 @@ GS3TRUYZ,GS3TRUYZ,Semi-supervised learning for big social data analysis,1,1,1,1,
 2-s2.0-85067488804,2-s2.0-85067488804,Semantic Fake News Detection: A Machine Learning Perspective,1,1,1,1,1,1,0.5,0,0,0.7222222222,,
 2-s2.0-85073214635,2-s2.0-85073214635,Leveraging Recursive Processing for Neural-Symbolic Affect-Target Associations,0,1,0,1,0,1,0,0,0,0.3333333333,,
 2-s2.0-85083026315,2-s2.0-85083026315,Causal relation classification using convolutional neural networks and grammar tags,1,1,1,1,1,1,0,0,0,0.6666666667,,
+,,,0.9024390244,0.8780487805,0.8536585366,0.8780487805,0.9024390244,0.8902439024,0.5731707317,0.1707317073,0.1951219512,,,
