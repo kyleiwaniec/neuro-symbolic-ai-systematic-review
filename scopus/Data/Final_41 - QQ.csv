@@ -1,43 +1,43 @@
-,KEY,Title,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,AVG,,
-ACDMDN8W,ACDMDN8W,A new neutrosophic TF-IDF term weighting for text mining tasks: text classification use case,1,1,1,1,1,1,1,0,0,0.7777777778,,Q1 Is there a clear and measurable research question?
-BAMGPUCX,BAMGPUCX,Sentence-Level Classification Using Parallel Fuzzy Deep Learning Classifier,1,1,1,1,1,1,1,0,1,0.8888888889,,"Q2 Is the study put into context of other studies and research, and design decisions justified accordingly? (Number of references in the literature review/ introduction)"
-2PNFHS7L,2PNFHS7L,Heterogeneous graph reasoning for knowledge-grounded medical dialogue system,1,1,1,1,1,1,1,0,0,0.7777777778,,Q3 Is it clearly stated in the study which other algorithms the study’s algorithm(s) have been compared with?
-JN4IZETG,JN4IZETG,autoBOT: evolving neuro-symbolic representations for explainable low resource text classification,1,1,1,1,1,1,1,1,1,1,,Q4 Are the performance metrics used in the study explained and justified?
-KTEHK4MZ,KTEHK4MZ,Deepening the IDA* algorithm for knowledge graph reasoning through neural network architecture,1,1,1,1,1,1,0,0,0,0.6666666667,,Q5 Is the analysis of the results relevant to the research question?
-RDSQSBN7,RDSQSBN7,Relation Extraction in Dialogues: A Deep Learning Model Based on the Generality and Specialty of Dialogue Text,1,1,1,1,1,1,0,0,1,0.7777777778,,Q6 Does the test evidence support the findings presented?
-3YFVRRKE,3YFVRRKE,Hierarchical Graph Transformer-Based Deep Learning Model for Large-Scale Multi-Label Text Classification,1,1,1,1,1,1,1,0,0.5,0.8333333333,,Q7 Is the study algorithm sufficiently documented to be reproducible? (independent researchers arriving at the same results using their own data and methods)
-4EF4BXD9,4EF4BXD9,"Twitter sentiment analysis is perfomed using support vector machine and multinomial naïve Bayes classifcation algorithms. Vector space is computed by weighted combination of the values obtained from four methods (Term Frequency and Inverse Document Frequency, semantic similarity, sentiment scoring using SentiWordNet, and sentiment scoring based on the class of tweets). The weighted values obtained from four methods are combined based on the Einstein sum as an important T-conorm method.",0.5,0.5,0.5,1,0.5,1,1,0,0.5,0.6111111111,,Q8 Is code provided?
-JGU2SECC,JGU2SECC,Medical knowledge embedding based on recursive neural network for multi-disease diagnosis,1,1,1,1,1,1,0.5,0,0,0.7222222222,,"Q9 Are performance metrics provided? (hardware, training time, inference time)"
-74QZV8X9,74QZV8X9,Robust reasoning over heterogeneous textual information for fact verification,0.5,1,1,1,1,1,1,0,0,0.7222222222,,
-7MMJY5BM,7MMJY5BM,The CoRg Project: Cognitive Reasoning,1,0,0,0,1,0,0,1,1,0.4444444444,,
-B47SSE6P,B47SSE6P,Fuzzy commonsense reasoning for multimodal sentiment analysis,1,1,1,1,1,1,0,1,0,0.7777777778,,
-EGI547RA,EGI547RA,Question Answering Systems with Deep Learning-Based Symbolic Processing,0,1,0,1,1,1,1,0,0,0.5555555556,,
-PD2A2ZVV,PD2A2ZVV,"Ontology based E-learning framework: A personalized, adaptive and context aware model",1,0,0,1,0.5,1,1,0,0,0.5,,
-NB39QA35,NB39QA35,Learning to activate logic rules for textual reasoning,1,1,1,0,1,1,1,0,0,0.6666666667,,
-GS3TRUYZ,GS3TRUYZ,Semi-supervised learning for big social data analysis,1,1,1,1,1,1,0,0,1,0.7777777778,,
-7YX447XS,7YX447XS,Concept generalization and fusion for abstractive sentence generation,1,1,1,1,1,1,1,0,0,0.7777777778,,
-7Q5JRVK2,7Q5JRVK2,Semantic-based regularization for learning and inference,1,1,1,1,1,1,1,1,0,0.8888888889,,
-6DWCY3EC,6DWCY3EC,Assessing cognitive alignment in different types of dialog by means of a network model,0.5,1,1,0.5,0.5,0.5,0,0,0,0.4444444444,,
-2FCUJH2G,2FCUJH2G,From symbolic to sub-symbolic information in question classification,1,1,1,1,1,1,0,0,0,0.6666666667,,
-2-s2.0-85113718164,2-s2.0-85113718164,Sememes-Based Framework for Knowledge Graph Embedding with Comprehensive-Information,0.5,0.5,0.5,1,1,0.5,1,0,0,0.5555555556,,
-2-s2.0-85108908770,2-s2.0-85108908770,Web question answering with neurosymbolic program synthesis,1,1,1,1,1,1,1,0,1,0.8888888889,,
-2-s2.0-85096590382,2-s2.0-85096590382,Neural-Symbolic Relational Reasoning on Graph Models: Effective Link Inference and Computation from Knowledge Bases,1,1,1,1,1,0.5,1,0,0,0.7222222222,,
-2-s2.0-85105153943,2-s2.0-85105153943,Mapping natural-language problems to formal-language solutions using structured neural representations,1,1,1,0.5,1,1,1,0,0,0.7222222222,,
-2-s2.0-85091286980,2-s2.0-85091286980,A Framework for a Comprehensive Conceptualization of Urban Constructs,1,1,0,0,0,0,0,1,0,0.3333333333,,
-2-s2.0-85087103850,2-s2.0-85087103850,Automated ontology-based annotation of scientific literature using deep learning,1,0.5,1,1,1,1,0,0,0,0.6111111111,,
-2-s2.0-85106687657,2-s2.0-85106687657,Just Add Functions: A Neural-Symbolic Language Model,1,1,1,1,1,1,0,0,0,0.6666666667,,
-2-s2.0-85083954234,2-s2.0-85083954234,"The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision",1,1,1,0.5,1,1,1,1,0,0.8333333333,,
-2-s2.0-85062227737,2-s2.0-85062227737,Using Deep Learning and an External Knowledge Base to Develop Human-Robot Dialogues,1,1,1,0.5,1,1,1,0,0,0.7222222222,,
-2-s2.0-85070277710,2-s2.0-85070277710,A novel NLP-fuzzy system prototype for information extraction from medical guidelines,1,1,1,1,1,1,0,0,0,0.6666666667,the link to the code is stale,
-2-s2.0-85085038180,2-s2.0-85085038180,Team SVMrank: Leveraging feature-rich support vector machines for ranking explanations to elementary science questions,1,0.5,1,1,0.5,1,0,0,0,0.5555555556,,
-2-s2.0-85080593464,2-s2.0-85080593464,Attentive tensor product learning,1,1,1,1,1,1,1,0,0,0.7777777778,,
-2-s2.0-85075592929,2-s2.0-85075592929,Complementing logical reasoning with sub-symbolic commonsense,1,1,1,1,1,1,1,1,0.5,0.9444444444,,
-2-s2.0-85072850367,2-s2.0-85072850367,Jointly Learning to Detect Emotions and Predict Facebook Reactions,1,1,1,1,1,1,1,0,0,0.7777777778,,
-2-s2.0-85081092649,2-s2.0-85081092649,Hybrid deep neural networks to predict socio-moral reasoning skills,1,0,1,1,1,0,0,0,0,0.4444444444,"there is a link to github, but there is no code there.",
-2-s2.0-85081087069,2-s2.0-85081087069,Cases without borders: Automating knowledge acquisition approach using deep autoencoders and siamese networks in case-based reasoning,1,1,1,1,1,1,1,0,0.5,0.8333333333,,
-2-s2.0-85085049747,2-s2.0-85085049747,Graph enhanced cross-domain text-to-SQL generation,1,1,1,1,1,1,0.5,0,0,0.7222222222,,
-2-s2.0-85064856751,2-s2.0-85064856751,A simple neural approach to spatial role labelling,1,1,1,1,1,1,0,0,0,0.6666666667,,
-2-s2.0-85067488804,2-s2.0-85067488804,Semantic Fake News Detection: A Machine Learning Perspective,1,1,1,1,1,1,0.5,0,0,0.7222222222,,
-2-s2.0-85073214635,2-s2.0-85073214635,Leveraging Recursive Processing for Neural-Symbolic Affect-Target Associations,0,1,0,1,0,1,0,0,0,0.3333333333,,
-2-s2.0-85083026315,2-s2.0-85083026315,Causal relation classification using convolutional neural networks and grammar tags,1,1,1,1,1,1,0,0,0,0.6666666667,,
-,,,0.9024390244,0.8780487805,0.8536585366,0.8780487805,0.9024390244,0.8902439024,0.5731707317,0.1707317073,0.1951219512,,,
+,KEY,Title,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,AVG,notes,questions,eleiminate
+ACDMDN8W,ACDMDN8W,A new neutrosophic TF-IDF term weighting for text mining tasks: text classification use case,1,1,1,1,1,1,1,0,0,0.7777777778,,Q1 Is there a clear and measurable research question?,
+BAMGPUCX,BAMGPUCX,Sentence-Level Classification Using Parallel Fuzzy Deep Learning Classifier,1,1,1,1,1,1,1,0,1,0.8888888889,,"Q2 Is the study put into context of other studies and research, and design decisions justified accordingly? (Number of references in the literature review/ introduction)",
+2PNFHS7L,2PNFHS7L,Heterogeneous graph reasoning for knowledge-grounded medical dialogue system,1,1,1,1,1,1,1,0,0,0.7777777778,,Q3 Is it clearly stated in the study which other algorithms the study’s algorithm(s) have been compared with?,
+JN4IZETG,JN4IZETG,autoBOT: evolving neuro-symbolic representations for explainable low resource text classification,1,1,1,1,1,1,1,1,1,1,,Q4 Are the performance metrics used in the study explained and justified?,
+KTEHK4MZ,KTEHK4MZ,Deepening the IDA* algorithm for knowledge graph reasoning through neural network architecture,1,1,1,1,1,1,0,0,0,0.6666666667,,Q5 Is the analysis of the results relevant to the research question?,1
+RDSQSBN7,RDSQSBN7,Relation Extraction in Dialogues: A Deep Learning Model Based on the Generality and Specialty of Dialogue Text,1,1,1,1,1,1,0,0,1,0.7777777778,,Q6 Does the test evidence support the findings presented?,
+3YFVRRKE,3YFVRRKE,Hierarchical Graph Transformer-Based Deep Learning Model for Large-Scale Multi-Label Text Classification,1,1,1,1,1,1,1,0,0.5,0.8333333333,,Q7 Is the study algorithm sufficiently documented to be reproducible? (independent researchers arriving at the same results using their own data and methods),
+4EF4BXD9,4EF4BXD9,"Twitter sentiment analysis is perfomed using support vector machine and multinomial naïve Bayes classifcation algorithms. Vector space is computed by weighted combination of the values obtained from four methods (Term Frequency and Inverse Document Frequency, semantic similarity, sentiment scoring using SentiWordNet, and sentiment scoring based on the class of tweets). The weighted values obtained from four methods are combined based on the Einstein sum as an important T-conorm method.",1,1,1,1,1,1,1,0,1,0.8888888889,,Q8 Is code provided?,1
+JGU2SECC,JGU2SECC,Medical knowledge embedding based on recursive neural network for multi-disease diagnosis,1,1,1,1,1,1,1,0,0,0.7777777778,,"Q9 Are performance metrics provided? (hardware, training time, inference time)",
+2-s2.0-85091286980,2-s2.0-85091286980,A Framework for a Comprehensive Conceptualization of Urban Constructs,1,1,1,0,0,0,1,1,0,0.5555555556,"WIP. no results reported. This is really a proposal, so doesn't meet the criteria of the review.",,1
+2-s2.0-85073214635,2-s2.0-85073214635,Leveraging Recursive Processing for Neural-Symbolic Affect-Target Associations,1,1,1,1,1,1,1,0,0,0.7777777778,,,
+7MMJY5BM,7MMJY5BM,The CoRg Project: Cognitive Reasoning,1,1,0,0,1,0,0,1,1,0.5555555556,,,
+6DWCY3EC,6DWCY3EC,Assessing cognitive alignment in different types of dialog by means of a network model,1,1,1,1,1,1,0,0,0,0.6666666667,,,1
+2-s2.0-85081092649,2-s2.0-85081092649,Hybrid deep neural networks to predict socio-moral reasoning skills,1,1,1,1,1,0,0,0,0,0.5555555556,"there is a link to github, but there is no code there.",,
+PD2A2ZVV,PD2A2ZVV,"Ontology based E-learning framework: A personalized, adaptive and context aware model",1,0,0,1,0.5,1,1,0,0,0.5,,,1
+EGI547RA,EGI547RA,Question Answering Systems with Deep Learning-Based Symbolic Processing,0,1,0,1,1,1,1,0,0,0.5555555556,,,
+2-s2.0-85113718164,2-s2.0-85113718164,Sememes-Based Framework for Knowledge Graph Embedding with Comprehensive-Information,1,1,1,1,1,1,1,0,0,0.7777777778,,,
+2-s2.0-85085038180,2-s2.0-85085038180,Team SVMrank: Leveraging feature-rich support vector machines for ranking explanations to elementary science questions,1,1,1,1,1,1,0,0,0,0.6666666667,,,
+2-s2.0-85087103850,2-s2.0-85087103850,Automated ontology-based annotation of scientific literature using deep learning,1,1,1,1,1,1,0,0,0,0.6666666667,,,
+NB39QA35,NB39QA35,Learning to activate logic rules for textual reasoning,1,1,1,0,1,1,1,0,0,0.6666666667,,,
+2FCUJH2G,2FCUJH2G,From symbolic to sub-symbolic information in question classification,1,1,1,1,1,1,0,0,0,0.6666666667,,,
+2-s2.0-85106687657,2-s2.0-85106687657,Just Add Functions: A Neural-Symbolic Language Model,1,1,1,1,1,1,0,0,0,0.6666666667,,,
+2-s2.0-85070277710,2-s2.0-85070277710,A novel NLP-fuzzy system prototype for information extraction from medical guidelines,1,1,1,1,1,1,0,0,0,0.6666666667,the link to the code is stale,,
+2-s2.0-85064856751,2-s2.0-85064856751,A simple neural approach to spatial role labelling,1,1,1,1,1,1,0,0,0,0.6666666667,,,
+2-s2.0-85083026315,2-s2.0-85083026315,Causal relation classification using convolutional neural networks and grammar tags,1,1,1,1,1,1,0,0,0,0.6666666667,,,
+74QZV8X9,74QZV8X9,Robust reasoning over heterogeneous textual information for fact verification,0.5,1,1,1,1,1,1,0,0,0.7222222222,,,1
+2-s2.0-85096590382,2-s2.0-85096590382,Neural-Symbolic Relational Reasoning on Graph Models: Effective Link Inference and Computation from Knowledge Bases,1,1,1,1,1,1,1,0,0,0.7777777778,,,
+2-s2.0-85105153943,2-s2.0-85105153943,Mapping natural-language problems to formal-language solutions using structured neural representations,1,1,1,1,1,1,1,0,0,0.7777777778,,,
+2-s2.0-85062227737,2-s2.0-85062227737,Using Deep Learning and an External Knowledge Base to Develop Human-Robot Dialogues,1,1,1,0.5,1,1,1,0,0,0.7222222222,,,1
+2-s2.0-85085049747,2-s2.0-85085049747,Graph enhanced cross-domain text-to-SQL generation,1,1,1,1,1,1,1,0,0,0.7777777778,,,
+2-s2.0-85067488804,2-s2.0-85067488804,Semantic Fake News Detection: A Machine Learning Perspective,1,1,1,1,1,1,1,0,0,0.7777777778,,,
+B47SSE6P,B47SSE6P,Fuzzy commonsense reasoning for multimodal sentiment analysis,1,1,1,1,1,1,0,1,0,0.7777777778,,,
+GS3TRUYZ,GS3TRUYZ,Semi-supervised learning for big social data analysis,1,1,1,1,1,1,0,0,1,0.7777777778,,,
+7YX447XS,7YX447XS,Concept generalization and fusion for abstractive sentence generation,1,1,1,1,1,1,1,0,0,0.7777777778,,,
+2-s2.0-85080593464,2-s2.0-85080593464,Attentive tensor product learning,1,1,1,1,1,1,1,0,0,0.7777777778,,,
+2-s2.0-85072850367,2-s2.0-85072850367,Jointly Learning to Detect Emotions and Predict Facebook Reactions,1,1,1,1,1,1,1,0,0,0.7777777778,,,
+2-s2.0-85083954234,2-s2.0-85083954234,"The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision",1,1,1,1,1,1,1,1,0,0.8888888889,,,
+2-s2.0-85081087069,2-s2.0-85081087069,Cases without borders: Automating knowledge acquisition approach using deep autoencoders and siamese networks in case-based reasoning,1,1,1,1,1,1,1,0,1,0.8888888889,,,
+7Q5JRVK2,7Q5JRVK2,Semantic-based regularization for learning and inference,1,1,1,1,1,1,1,1,0,0.8888888889,,,
+2-s2.0-85108908770,2-s2.0-85108908770,Web question answering with neurosymbolic program synthesis,1,1,1,1,1,1,1,0,1,0.8888888889,,,
+2-s2.0-85075592929,2-s2.0-85075592929,Complementing logical reasoning with sub-symbolic commonsense,1,1,1,1,1,1,1,1,1,1,,,
+,,,0.9634146341,0.9756097561,0.9268292683,0.9146341463,0.9634146341,0.9268292683,0.6585365854,0.1707317073,0.2317073171,,,,

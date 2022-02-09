@@ -95,7 +95,7 @@ def get_topics(cluster, abstracts, n_words=20):
     
     return top_n_words, topic_sizes
 
-def drawCloud(text,max_words=350,width=1000,height=600,figsize=(15,15),raw=True,title=""):
+def drawCloud(text,max_words=350,width=1000,height=600,figsize=(15,15),raw=True,title="",save=False,path='cloud.svg'):
     wc = WordCloud(background_color="white", 
                    max_words=max_words, 
                    width=width, 
@@ -107,9 +107,11 @@ def drawCloud(text,max_words=350,width=1000,height=600,figsize=(15,15),raw=True,
         wc.generate_from_frequencies(text)
     
     plt.figure(figsize=figsize)
-    plt.title(title)
+#     plt.title(title)
     plt.axis("off")
     cloud=plt.imshow(wc)
+    if(save):
+        plt.savefig(path, format="svg",  bbox_inches='tight')
     return cloud
 
 

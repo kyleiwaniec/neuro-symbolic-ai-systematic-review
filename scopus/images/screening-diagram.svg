@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 895 372" style="enable-background:new 0 0 895 372;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#450256;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:12px;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#000000;}
+	.st8{fill:none;stroke:#D80073;stroke-width:3;}
+	.st9{font-family:'Helvetica';}
+	.st10{font-family:'ArialMT';}
+</style>
+<path class="st0" d="z"/>
+<g>
+	<rect x="28" y="25.5" pointer-events="all" class="st1" width="160" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 74.8115 44.5)" class="st2 st3 st4">Identification</text>
+	</g>
+	<rect x="198" y="25.5" pointer-events="all" class="st1" width="330" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 336.4824 44.5)" class="st2 st3 st4">Screening</text>
+	</g>
+	<rect x="538" y="25.5" pointer-events="all" class="st1" width="160" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 595.1592 44.5)" class="st2 st3 st4">Eligibility</text>
+	</g>
+	<rect x="708" y="25.5" pointer-events="all" class="st1" width="152.7" height="30"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 759.8193 44.5)" class="st2 st3 st4">Inclusion</text>
+	</g>
+	<path pointer-events="stroke" class="st5" d="M168.5,120.5h10c6.7,0,12.2,0,16.6,0h6.6"/>
+	<path pointer-events="all" class="st6" d="M206.9,120.5l-7,3.5l1.8-3.5l-1.8-3.5L206.9,120.5z"/>
+	<path pointer-events="stroke" class="st5" d="M168.5,120.5h10c6.7,0,10,3.3,10,10v45c0,6.7,0,10.6-0.1,11.8l-0.1,1.8"/>
+	<path pointer-events="all" class="st6" d="M188.1,194.4l-3.1-7.2l3.4,1.9l3.6-1.6L188.1,194.4z"/>
+	<rect x="27.5" y="75.5" pointer-events="all" class="st7" width="141" height="90"/>
+	<path pointer-events="stroke" class="st5" d="M348,120.5h23.6"/>
+	<path pointer-events="all" class="st6" d="M376.9,120.5l-7,3.5l1.8-3.5l-1.8-3.5L376.9,120.5z"/>
+	<rect x="208" y="75.5" pointer-events="all" class="st7" width="140" height="90"/>
+	<path pointer-events="stroke" class="st5" d="M519,120.5h22.6"/>
+	<path pointer-events="all" class="st6" d="M546.9,120.5l-7,3.5l1.8-3.5l-1.8-3.5L546.9,120.5z"/>
+	<rect x="378" y="75.5" pointer-events="all" class="st7" width="141" height="90"/>
+	<path pointer-events="stroke" class="st5" d="M689,120.5h22.6"/>
+	<path pointer-events="all" class="st6" d="M716.9,120.5l-7,3.5l1.8-3.5l-1.8-3.5L716.9,120.5z"/>
+	<rect x="548" y="75.5" pointer-events="all" class="st7" width="141" height="90"/>
+	<rect x="718" y="75.5" pointer-events="all" class="st8" width="141" height="90"/>
+	<g transform="translate(-0.5 -0.5)">
+		<text transform="matrix(1 0 0 1 721.4541 124.5)" class="st2 st9 st4">Studies included in ana...</text>
+	</g>
+	<rect x="118" y="195.5" pointer-events="all" class="st7" width="141" height="90"/>
+	<path pointer-events="stroke" class="st5" d="M348,120.5h10c6.7,0,10,3.3,10,10V148c0,6.7,0,13.3-0.1,20l-0.3,21.1"/>
+	<path pointer-events="all" class="st6" d="M367.5,194.4l-3.4-7.1l3.5,1.8l3.5-1.7L367.5,194.4z"/>
+	<rect x="278" y="195.5" pointer-events="all" class="st7" width="170" height="130"/>
+	<path pointer-events="stroke" class="st5" d="M519,120.5h10c6.7,0,10,3.3,10,10V148c0,6.7,0,13.3-0.1,20l-0.3,21.1"/>
+	<path pointer-events="all" class="st6" d="M538.5,194.4l-3.4-7l3.5,1.8l3.5-1.7L538.5,194.4z"/>
+	<rect x="468" y="195.5" pointer-events="all" class="st7" width="141" height="90"/>
+	<path pointer-events="stroke" class="st5" d="M689,120.5h10c6.7,0,10,3.3,10,10V148c0,6.7,0,13.3-0.1,20l-0.3,21.1"/>
+	<path pointer-events="all" class="st6" d="M708.5,194.4l-3.4-7l3.5,1.8l3.5-1.7L708.5,194.4z"/>
+	<rect x="638" y="195.5" pointer-events="all" class="st7" width="163.9" height="131.2"/>
+</g>
+<path class="st0" d="z"/>
+<rect x="34.9" y="88" class="st0" width="124" height="72"/>
+<text transform="matrix(1 0 0 1 37.1696 96.618)"><tspan x="0" y="0" class="st10 st4">Total studies identified</tspan><tspan x="12" y="14.4" class="st10 st4">by Scopus search</tspan><tspan x="-0.8" y="28.8" class="st10 st4">journal articles = 2,180</tspan><tspan x="4.8" y="43.2" class="st10 st4">conference papers = </tspan><tspan x="49.7" y="57.6" class="st10 st4">232</tspan></text>
+<rect x="217" y="90.2" class="st0" width="124" height="72"/>
+<text transform="matrix(1 0 0 1 223.9688 98.7473)"><tspan x="0" y="0" class="st10 st4">Studies screened for </tspan><tspan x="8" y="14.4" class="st10 st4">titles and abstract</tspan><tspan x="-5.5" y="28.8" class="st10 st4">journal articles = 1,511</tspan><tspan x="5.2" y="43.2" class="st10 st4">conf. papers = 232</tspan></text>
+<rect x="386.5" y="90.2" class="st0" width="124" height="72"/>
+<text transform="matrix(1 0 0 1 392.1158 98.7473)"><tspan x="0" y="0" class="st10 st4">Studies after title and </tspan><tspan x="10.7" y="14.4" class="st10 st4">abstract screning</tspan><tspan x="4.2" y="28.8" class="st10 st4">journal articles = 73</tspan><tspan x="9.8" y="43.2" class="st10 st4">conf. papers = 40</tspan></text>
+<rect x="556.9" y="90.2" class="st0" width="124" height="72"/>
+<text transform="matrix(1 0 0 1 563.1744 98.7473)"><tspan x="0" y="0" class="st10 st4">Studies assessed for </tspan><tspan x="33" y="14.4" class="st10 st4">eligibility</tspan><tspan x="3.5" y="28.8" class="st10 st4">journal articles = 68</tspan><tspan x="9.2" y="43.2" class="st10 st4">conf. papers = 27</tspan></text>
+<rect x="131" y="218.8" class="st0" width="114" height="66"/>
+<text transform="matrix(1 0 0 1 136.9619 227.3461)"><tspan x="0" y="0" class="st10 st4">Excluded based on </tspan><tspan x="5.3" y="14.4" class="st10 st4">automation tools:</tspan><tspan x="-4.5" y="28.8" class="st10 st4">journal articles = 669</tspan></text>
+<rect x="292" y="205.9" class="st0" width="146" height="113"/>
+<text transform="matrix(1 0 0 1 313.9619 214.4924)"><tspan x="0" y="0" class="st10 st4">Excluded based on </tspan><tspan x="7" y="14.4" class="st10 st4">abstract and title</tspan><tspan x="-9.5" y="28.8" class="st10 st4">journal articles = 1,278</tspan><tspan x="1.2" y="43.2" class="st10 st4">conf. papers = 192</tspan><tspan x="0" y="72" class="st10 st4">Excluded based on </tspan><tspan x="-15.7" y="86.4" class="st10 st4">researcher disagreement</tspan><tspan x="-4.5" y="100.8" class="st10 st4">journal articles = 160</tspan></text>
+<rect x="486" y="213.3" class="st0" width="108" height="62"/>
+<text transform="matrix(1 0 0 1 488.9619 221.8936)"><tspan x="0" y="0" class="st10 st4">Excluded based on </tspan><tspan x="14.4" y="14.4" class="st10 st4">inaccessibility</tspan><tspan x="2.2" y="28.8" class="st10 st4">journal articles = 5</tspan><tspan x="4.5" y="43.2" class="st10 st4">conf. papers = 13</tspan></text>
+<rect x="651.8" y="211.6" class="st0" width="136.4" height="109"/>
+<text transform="matrix(1 0 0 1 653.6002 220.1814)"><tspan x="0" y="0" class="st10 st4">Excluded full-text studies </tspan><tspan x="31" y="14.4" class="st10 st4">with reasons: </tspan><tspan x="14.2" y="28.8" class="st10 st4">journal articles = 53</tspan><tspan x="23.2" y="43.2" class="st10 st4">conf. papers = 7</tspan><tspan x="27.2" y="72" class="st10 st4">Not NeSy = 59</tspan><tspan x="23.2" y="86.4" class="st10 st4">Poor Quality = 2</tspan></text>
+<rect x="735" y="90.8" class="st0" width="107" height="59"/>
+<text transform="matrix(1 0 0 1 738.1328 99.3918)"><tspan x="0" y="0" class="st10 st4">Studies included in </tspan><tspan x="28.7" y="14.4" class="st10 st4">analysis</tspan><tspan x="-1.8" y="28.8" class="st10 st4">journal articles = 15</tspan><tspan x="3.8" y="43.2" class="st10 st4">conf. papers = 20  </tspan></text>
+</svg>
