@@ -1,0 +1,15 @@
+axes.titlesize : 14
+axes.labelsize : 12
+axes.edgecolor:   cccccc
+axes.linewidth:     0.6
+
+lines.linewidth : 1
+lines.markersize : 10
+
+xtick.labelsize : large
+ytick.labelsize : large
+xtick.color:      000000
+ytick.color:      000000
+
+#axes.prop_cycle: cycler('color', ['ff0066', '3B1C8C', '21908D', '5AC865', 'F9E721', '450256', '3B1C8C', '21908D'])
+axes.prop_cycle: cycler('color', ['450256', '2070b4','9c4397','57bcd6', '450256', 'efeee8', '00485c', '041356', '89b79f', '4a398a'])

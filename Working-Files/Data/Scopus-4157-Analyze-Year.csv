@@ -1,0 +1,20 @@
+﻿Scopus-4157-Analyze-Year
+
+"Your query : (TITLE-ABS-KEY ( ( ( ""sub-symbolic"" OR ""machine learning"" OR ""deep learning"" ) AND ( ""symbolic"" OR ""reasoning"" OR ""logic"" ) ) OR ( ""neuro-symbolic"" OR ""neural-symbolic"" OR ""neuro symbolic"" OR ""neural symbolic"" OR ""neurosymbolic"" ) ) AND PUBYEAR > 2010 AND ( LIMIT-TO ( SUBJAREA,""COMP"" ) )  AND ( LIMIT-TO ( DOCTYPE,""cp"" ) )  AND ( LIMIT-TO ( LANGUAGE,""English"" ) ) )"
+
+
+Number of results : 4157
+
+"YEAR",
+"2022","17"
+"2021","572"
+"2020","865"
+"2019","922"
+"2018","480"
+"2017","346"
+"2016","248"
+"2015","195"
+"2014","143"
+"2013","123"
+"2012","113"
+"2011","133"
