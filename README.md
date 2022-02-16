@@ -1,5 +1,5 @@
-neuro-symbolic-ai-systematic-review
-===================================
+neuro-symbolic-ai-systematic-review materials
+=============================================
 
 Authors: Kyle Hamilton & Aparna Nayak
 
@@ -20,15 +20,14 @@ This Repo Organization
     -   **images** - images referenced in the notebooks
 
     -   **Supplemental-materials** - notebooks documenting the review process.
-        Could be published alongside the review
-
+        
     -   **utils.py** - some functions used in the notebooks so the notebooks
         don’t get too cluttered
 
 -   **figures** - for the review itself. These get uploaded to Overleaf
 
 -   **Surveys** - existing NeSy surveys and discussion (not a comprehensive
-    list, yet)
+    list)
 
 Google docs:
 ------------
@@ -42,28 +41,3 @@ Google docs:
 -   [NeSy glossary - Referenced by the
     protocol.](https://docs.google.com/spreadsheets/d/1VzW2_ytt7A-f4IG0iVJdowr2s-9A7oQmYTkCghmcWk0/edit#gid=0)
 
--   [Neural-Symbolic Lit reveiw - A Doc with some random
-    notes.](https://docs.google.com/document/d/1JtQiJ14oS--3bqsiD1SDfQqnVQgr6_mRK2aFNG01bis/edit#heading=h.akl3ltvcromx)
-
-Slides:
--------
-
--   [Neuro-Symbolic AI for Learning and Reasoning in NLP: A Systematic
-    Review](https://docs.google.com/presentation/d/1dl849Ka0RF6Q57EFCplc-PJ5mkyWLrlw5CeP644Afkw/edit#slide=id.gfbe02c523e_2_19)
-    - Presentation given in Robert Ross reading group Dec 2021
-
--   [Kautz
-    Categories](https://docs.google.com/presentation/d/1MwTgThgvFzX2V6fB8BxYo1HqZttkmOwpdya6Iupohx0/edit#slide=id.gf2427277b3_0_10)
-
-Overleaf:
----------
-
--   <https://www.overleaf.com/project/61bc7387826e5fa13e01b85d>
-
-Possible publishers:
---------------------
-
-(as recommendaed by Luca L.) \*
-https://www.frontiersin.org/journals/artificial-intelligence \*
-https://www.journals.elsevier.com/artificial-intelligence \*
-https://www.mdpi.com
