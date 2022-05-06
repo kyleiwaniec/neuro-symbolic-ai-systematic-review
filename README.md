@@ -30,6 +30,6 @@ Google docs:
 -   [The protocol and all papers
     screened/reviewed.](https://docs.google.com/spreadsheets/d/1mMiZ5twurucBnW_EScDh9GT5-io9Q7XlKVY_nIOH6rA/edit#gid=1747218129)
 
--   [NeSy glossary - Referenced by the
+-   [Glossary - Referenced by the
     protocol.](https://docs.google.com/spreadsheets/d/1VzW2_ytt7A-f4IG0iVJdowr2s-9A7oQmYTkCghmcWk0/edit#gid=0)
 
