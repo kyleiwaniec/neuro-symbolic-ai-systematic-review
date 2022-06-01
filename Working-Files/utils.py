@@ -115,8 +115,8 @@ def drawCloud(text,max_words=350,width=1000,height=600,figsize=(15,15),raw=True,
     return cloud
 
 
-def getTFIDF(text,top_n=15,maxdf=0.9):
-    vectorizer = TfidfVectorizer(stop_words='english',min_df=0.2,max_df=maxdf,ngram_range=(1,3),strip_accents='unicode')
+def getTFIDF(text,top_n=15,maxdf=0.9,mindf=0.2):
+    vectorizer = TfidfVectorizer(stop_words='english',min_df=mindf,max_df=maxdf,ngram_range=(1,3),strip_accents='unicode')
     X = vectorizer.fit_transform(text)
 #     print(X.shape)
     
